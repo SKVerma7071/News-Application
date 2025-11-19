@@ -10,10 +10,10 @@ export default function Header() {
     { href: "about-us", label: "About" },
     { href: "edu-news", label: "Education News & Update" },
     { href: "study-resources", label: "Study Resources" },
-    { href: "blog-category", label: "Video Lecture" },
-    { href: "blog-category", label: "Scholarship & Career" },
-    { href: "blog-category", label: "Institution Directory" },
-    { href: "blog-category", label: "Knowledge Hub" },
+    { href: "video-lectures", label: "Video Lecture" },
+    { href: "scholarship", label: "Scholarship & Career" },
+    { href: "institution-directory", label: "Institution Directory" },
+    { href: "knowledge-hub", label: "Knowledge Hub" },
     { href: "blog-category", label: "Contact Us" },
   ];
 

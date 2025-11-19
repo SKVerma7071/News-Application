@@ -14,6 +14,11 @@ import { useEffect } from "react";
 import About from "./pages/About";
 import EducationNews from "./pages/EducationNews";
 import StudyResources from "./pages/StudyResources";
+import VideoLectures from "./pages/VideoLectures";
+import VideoLecturesEnhanced from "./pages/EnhancedVideoLectures";
+import ScholarshipsCareer from "./pages/ScholarshipsCareer";
+import InstitutionDirectory from "./pages/InstitutionDirectory";
+import KnowledgeHub from "./pages/KnowledgeHub";
 
 function App() {
   const location = useLocation();
@@ -39,6 +44,13 @@ function App() {
           <Route path="/about-us" element={<About />} />
           <Route path="/edu-news" element={<EducationNews />} />
           <Route path="/study-resources" element={<StudyResources />} />
+          <Route path="/video-lectures" element={<VideoLecturesEnhanced />} />
+          <Route path="/scholarship" element={<ScholarshipsCareer />} />
+          <Route
+            path="/institution-directory"
+            element={<InstitutionDirectory />}
+          />
+          <Route path="/knowledge-hub" element={<KnowledgeHub />} />
           {/* 404 */}
           <Route path="*" element={<NotFound />} />
         </Routes>
