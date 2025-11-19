@@ -13,6 +13,7 @@ import UIkit from "uikit";
 import { useEffect } from "react";
 import About from "./pages/About";
 import EducationNews from "./pages/EducationNews";
+import StudyResources from "./pages/StudyResources";
 
 function App() {
   const location = useLocation();
