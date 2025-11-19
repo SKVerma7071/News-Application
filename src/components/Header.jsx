@@ -9,7 +9,7 @@ export default function Header() {
     { href: "/", label: "Home" },
     { href: "about-us", label: "About" },
     { href: "edu-news", label: "Education News & Update" },
-    { href: "blog-category", label: "Study Resources" },
+    { href: "study-resources", label: "Study Resources" },
     { href: "blog-category", label: "Video Lecture" },
     { href: "blog-category", label: "Scholarship & Career" },
     { href: "blog-category", label: "Institution Directory" },
@@ -24,23 +24,23 @@ export default function Header() {
     "Balancing Work and Wellness: Tech Solutions for Healthy",
     "The Importance of Sleep: Tips for Better Rest and Recovery",
     "The Future of Sustainable Living: Driving Eco-Friendly Lifestyles",
-    "Business Agility the Digital Age: Leveraging AI and Automation"
+    "Business Agility the Digital Age: Leveraging AI and Automation",
   ];
 
   // Category dropdown data
   const categorySections = [
     {
-      items: ["Trending", "Politics", "Opinions", "World", "Media"]
+      items: ["Trending", "Politics", "Opinions", "World", "Media"],
     },
     {
-      items: ["Tech", "Business", "Fashion", "Arts", "Food"]
+      items: ["Tech", "Business", "Fashion", "Arts", "Food"],
     },
     {
-      items: ["Economy", "Finance", "Education", "Health", "National"]
+      items: ["Economy", "Finance", "Education", "Health", "National"],
     },
     {
-      items: ["E-Books", "Press", "Podcasts", "Entertainments", "Weather"]
-    }
+      items: ["E-Books", "Press", "Podcasts", "Entertainments", "Weather"],
+    },
   ];
 
   return (
@@ -131,10 +131,17 @@ export default function Header() {
                               Do not worry, we don't spam!
                             </p>
                             <ul className="nav-x gap-2 mt-3">
-                              {['facebook', 'x-filled', 'instagram', 'youtube'].map((platform) => (
+                              {[
+                                "facebook",
+                                "x-filled",
+                                "instagram",
+                                "youtube",
+                              ].map((platform) => (
                                 <li key={platform}>
                                   <a href={`#${platform}`}>
-                                    <i className={`icon icon-2 unicon-logo-${platform}`}></i>
+                                    <i
+                                      className={`icon icon-2 unicon-logo-${platform}`}
+                                    ></i>
                                   </a>
                                 </li>
                               ))}
@@ -169,7 +176,7 @@ export default function Header() {
                 <div>
                   <a
                     className="uc-menu-trigger icon-2"
-                    onClick={() => openModal('menu')}
+                    onClick={() => openModal("menu")}
                     data-uc-toggle
                   ></a>
                 </div>
@@ -227,28 +234,38 @@ export default function Header() {
                     <span>Live</span>
                   </a>
                 </div>
-                
+
                 {/* Action Icons */}
                 {[
-                  { 
-                    className: "uc-cart-trigger", 
-                    icon: "unicon-shopping-basket", 
-                    href: "#uc-cart-panel" 
+                  {
+                    className: "uc-cart-trigger",
+                    icon: "unicon-shopping-basket",
+                    href: "#uc-cart-panel",
                   },
-                  { 
-                    className: "uc-account-trigger d-none lg:d-inline-flex", 
-                    icon: "unicon-user-avatar", 
-                    href: "#uc-account-modal" 
+                  {
+                    className: "uc-account-trigger d-none lg:d-inline-flex",
+                    icon: "unicon-user-avatar",
+                    href: "#uc-account-modal",
                   },
-                  { 
-                    className: "uc-search-trigger cstack text-none text-dark dark:text-white d-none lg:d-inline-flex", 
-                    icon: "unicon-search", 
-                    href: "#uc-search-modal" 
-                  }
+                  {
+                    className:
+                      "uc-search-trigger cstack text-none text-dark dark:text-white d-none lg:d-inline-flex",
+                    icon: "unicon-search",
+                    href: "#uc-search-modal",
+                  },
                 ].map((action, index) => (
-                  <div key={index} className={`uc-navbar-item ${action.className.includes('d-none') ? action.className.split(' ')[2] : ''}`}>
+                  <div
+                    key={index}
+                    className={`uc-navbar-item ${
+                      action.className.includes("d-none")
+                        ? action.className.split(" ")[2]
+                        : ""
+                    }`}
+                  >
                     <a
-                      className={`${action.className.split(' ')[0]} position-relative btn btn-sm border-0 p-0 gap-narrow duration-0 dark:text-white`}
+                      className={`${
+                        action.className.split(" ")[0]
+                      } position-relative btn btn-sm border-0 p-0 gap-narrow duration-0 dark:text-white`}
                       href={action.href}
                       data-uc-toggle
                     >

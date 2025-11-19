@@ -14,11 +14,8 @@ import { useEffect } from "react";
 import About from "./pages/About";
 import EducationNews from "./pages/EducationNews";
 
-
 function App() {
-
-
-   const location = useLocation();
+  const location = useLocation();
 
   // Re-run UIkit on route change
   useEffect(() => {
@@ -38,8 +35,9 @@ function App() {
           <Route path="/blog-category" element={<BlogCategory />} />
           <Route path="/blog" element={<ModernBlog />} />
           <Route path="/blog-details" element={<BlogDetails />} />
-<Route path="/about-us" element={<About />} />
-<Route path="/edu-news" element={<EducationNews />} />
+          <Route path="/about-us" element={<About />} />
+          <Route path="/edu-news" element={<EducationNews />} />
+          <Route path="/study-resources" element={<StudyResources />} />
           {/* 404 */}
           <Route path="*" element={<NotFound />} />
         </Routes>
