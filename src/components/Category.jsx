@@ -25,10 +25,10 @@ export default function Category() {
                                                             <div className="post-media panel overflow-hidden h-100">
                                                                 <div className="featured-image bg-gray-25 dark:bg-gray-800 h-100 d-none md:d-block">
                                                                     <canvas className="h-100 w-100"></canvas>
-                                                                    <img className="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/img-fallback.png" data-src="/assets/images/demo-seven/posts/img-04.jpg" alt="The Importance of Sleep: Tips for Better Rest and Recovery" data-uc-img="loading: lazy"/>
+                                                                    <img className="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/demo-seven/posts/download (1) (2).jpg" data-src="/assets/images/demo-seven/posts/download (1) (2).jpg" alt="The Importance of Sleep: Tips for Better Rest and Recovery" data-uc-img="loading: lazy"/>
                                                                 </div>
                                                                 <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-16x9 d-block md:d-none">
-                                                                    <img className="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/img-fallback.png" data-src="/assets/images/demo-seven/posts/img-04.jpg" alt="The Importance of Sleep: Tips for Better Rest and Recovery" data-uc-img="loading: lazy"/>
+                                                                    <img className="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/demo-seven/posts/download (1) (2).jpg" data-src="/assets/images/demo-seven/posts/download (1) (2).jpg" alt="The Importance of Sleep: Tips for Better Rest and Recovery" data-uc-img="loading: lazy"/>
                                                                 </div>
                                                             </div>
                                                             <div className="position-cover bg-gradient-to-t from-black to-transparent opacity-90"></div>
@@ -84,7 +84,10 @@ export default function Category() {
                                                                     <div className="col-auto">
                                                                         <div className="post-media panel overflow-hidden max-w-72px min-w-72px">
                                                                             <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-1x1">
-                                                                                <img className="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/img-fallback.png" data-src="/assets/images/demo-seven/posts/img-05.jpg" alt="The Future of Sustainable Living: Driving Eco-Friendly Lifestyles" data-uc-img="loading: lazy"/>
+                                                                                <img className="media-cover image uc-transition-scale-up uc-transition-opaque"
+                                                                                 src="\assets\images\demo-two\download (1).jpg" 
+                                                                                 data-src="\assets\images\demo-two\download (1).jpg" 
+                                                                                 alt="The Future of Sustainable Living: Driving Eco-Friendly Lifestyles" data-uc-img="loading: lazy"/>
                                                                             </div>
                                                                             <a href="blog-details.html" className="position-cover"></a>
                                                                         </div>
@@ -108,7 +111,10 @@ export default function Category() {
                                                                     <div className="col-auto">
                                                                         <div className="post-media panel overflow-hidden max-w-72px min-w-72px">
                                                                             <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-1x1">
-                                                                                <img className="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/img-fallback.png" data-src="/assets/images/demo-seven/posts/img-10.jpg" alt="Eco-Tourism: Traveling Responsibly and Sustainably" data-uc-img="loading: lazy"/>
+                                                                                <img className="media-cover image uc-transition-scale-up uc-transition-opaque"
+                                                                                 src="\assets\images\demo-two\download (2).jpg" data-src="\assets\images\demo-two\download (2).jpg"
+                                                                                  alt="Eco-Tourism: Traveling Responsibly and Sustainably" data-uc-img="loading: lazy"/>
+
                                                                             </div>
                                                                             <a href="blog-details.html" className="position-cover"></a>
                                                                         </div>
@@ -132,7 +138,10 @@ export default function Category() {
                                                                     <div className="col-auto">
                                                                         <div className="post-media panel overflow-hidden max-w-72px min-w-72px">
                                                                             <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-1x1">
-                                                                                <img className="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/img-fallback.png" data-src="/assets/images/demo-seven/posts/img-13.jpg" alt="Tech Tools for your Time Management: Enhancing Productivity" data-uc-img="loading: lazy"/>
+                                                                                <img className="media-cover image uc-transition-scale-up uc-transition-opaque" src="\assets\images\demo-two\posts\download (1).jpg"
+                                                                                 data-src="\assets\images\demo-two\posts\download (1).jpg" 
+                                                                                 alt="Tech Tools for your Time Management: Enhancing Productivity" 
+                                                                                 data-uc-img="loading: lazy"/>
                                                                             </div>
                                                                             <a href="blog-details.html" className="position-cover"></a>
                                                                         </div>
@@ -156,7 +165,7 @@ export default function Category() {
                                                                     <div className="col-auto">
                                                                         <div className="post-media panel overflow-hidden max-w-72px min-w-72px">
                                                                             <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-1x1">
-                                                                                <img className="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/img-fallback.png" data-src="/assets/images/demo-seven/posts/img-17.jpg" alt="Potential of Immersive Technologies help your Business Grow" data-uc-img="loading: lazy"/>
+                                                                                <img className="media-cover image uc-transition-scale-up uc-transition-opaque" src="\assets\images\demo-two\download (3).jpg" data-src="\assets\images\demo-two\download (3).jpg" alt="Potential of Immersive Technologies help your Business Grow" data-uc-img="loading: lazy"/>
                                                                             </div>
                                                                             <a href="blog-details.html" className="position-cover"></a>
                                                                         </div>
@@ -198,7 +207,8 @@ export default function Category() {
                                                             <div className="col-auto">
                                                                 <div className="post-media panel overflow-hidden max-w-72px min-w-72px">
                                                                     <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-1x1">
-                                                                        <img className="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/img-fallback.png" data-src="/assets/images/demo-seven/posts/img-11.jpg" alt="Solo Travel: Some Tips and Destinations for the Adventurous Explorer" data-uc-img="loading: lazy"/>
+                                                                        <img className="media-cover image uc-transition-scale-up uc-transition-opaque"
+                                                                         src="\assets\images\demo-seven\posts\download (1).jpg" data-src="\assets\images\demo-seven\posts\download (1).jpg" alt="Solo Travel: Some Tips and Destinations for the Adventurous Explorer" data-uc-img="loading: lazy"/>
                                                                     </div>
                                                                     <a href="blog-details.html" className="position-cover"></a>
                                                                 </div>
@@ -222,7 +232,8 @@ export default function Category() {
                                                             <div className="col-auto">
                                                                 <div className="post-media panel overflow-hidden max-w-72px min-w-72px">
                                                                     <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-1x1">
-                                                                        <img className="media-cover image uc-transition-scale-up uc-transition-opaque" src="/images/common/img-fallback.png" data-src="/assets/images/demo-seven/posts/img-15.jpg" alt="Gaming in the Age of AI: Strategies for Startups" data-uc-img="loading: lazy"/>
+                                                                        <img className="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/demo-seven/posts/download (2).jpg" data-src="/assets/images/demo-seven/posts/download (2
+                                                                        ).jpg" alt="Gaming in the Age of AI: Strategies for Startups" data-uc-img="loading: lazy"/>
                                                                     </div>
                                                                     <a href="blog-details.html" className="position-cover"></a>
                                                                 </div>
@@ -246,7 +257,7 @@ export default function Category() {
                                                             <div className="col-auto">
                                                                 <div className="post-media panel overflow-hidden max-w-72px min-w-72px">
                                                                     <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-1x1">
-                                                                        <img className="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/img-fallback.png" data-src="/assets/images/demo-seven/posts/img-18.jpg" alt="Virtual Reality and Mental Health: Exploring the Therapeutic" data-uc-img="loading: lazy"/>
+                                                                        <img className="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/demo-seven/posts/download (5).jpg" data-src="/assets/images/demo-seven/posts/download (5).jpg" alt="Virtual Reality and Mental Health: Exploring the Therapeutic" data-uc-img="loading: lazy"/>
                                                                     </div>
                                                                     <a href="blog-details.html" className="position-cover"></a>
                                                                 </div>
@@ -270,7 +281,7 @@ export default function Category() {
                                                             <div className="col-auto">
                                                                 <div className="post-media panel overflow-hidden max-w-72px min-w-72px">
                                                                     <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-1x1">
-                                                                        <img className="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/img-fallback.png" data-src="/assets/images/demo-seven/posts/img-20.jpg" alt="Smart Homes, Smarter Living: Exploring IoT and AI" data-uc-img="loading: lazy"/>
+                                                                        <img className="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/demo-two/posts/download (1).jpg" data-src="/assets/images/demo-two/posts/download (1).jpg" alt="Smart Homes, Smarter Living: Exploring IoT and AI" data-uc-img="loading: lazy"/>
                                                                     </div>
                                                                     <a href="blog-details.html" className="position-cover"></a>
                                                                 </div>

@@ -22,7 +22,7 @@ export default function Hero() {
                                                                         <img className="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/image.png" data-src="\assets\images\common\download (2).jpg" alt="Solo Travel: Some Tips and Destinations for the Adventurous Explorer" data-uc-img="loading: lazy"/>
                                                                     </div>
                                                                     <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-16x9 d-block md:d-none">
-                                                                        <img className="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/img-fallback.png" data-src="/assets/images/demo-seven/posts/img-11.jpg" alt="Solo Travel: Some Tips and Destinations for the Adventurous Explorer" data-uc-img="loading: lazy"/>
+                                                                        <img className="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/image.png" data-src="/assets/images/common/image.png" alt="Solo Travel: Some Tips and Destinations for the Adventurous Explorer" data-uc-img="loading: lazy"/>
                                                                     </div>
                                                                 </div>
                                                                 <div className="position-cover bg-gradient-to-t from-black to-transparent opacity-90"></div>
@@ -64,10 +64,10 @@ export default function Hero() {
                                                                 <div className="post-media panel overflow-hidden h-100">
                                                                     <div className="featured-image bg-gray-25 dark:bg-gray-800 h-100 d-none md:d-block">
                                                                         <canvas className="h-100 w-100"></canvas>
-                                                                        <img className="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/img-fallback.png" data-src="/assets/images/demo-seven/posts/img-15.jpg" alt="Gaming in the Age of AI: Strategies for Startups" data-uc-img="loading: lazy"/>
+                                                                        <img className="media-cover image uc-transition-scale-up uc-transition-opaque" src="\assets\images\common\download (2).jpg" data-src="\assets\images\common\download (2).jpg" alt="Gaming in the Age of AI: Strategies for Startups" data-uc-img="loading: lazy"/>
                                                                     </div>
                                                                     <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-16x9 d-block md:d-none">
-                                                                        <img className="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/img-fallback.png" data-src="/assets/images/demo-seven/posts/img-15.jpg" alt="Gaming in the Age of AI: Strategies for Startups" data-uc-img="loading: lazy"/>
+                                                                        <img className="media-cover image uc-transition-scale-up uc-transition-opaque" src="\assets\images\common\download (2).jpg" data-src="\assets\images\common\download (2).jpg" alt="Gaming in the Age of AI: Strategies for Startups" data-uc-img="loading: lazy"/>
                                                                     </div>
                                                                 </div>
                                                                 <div className="position-cover bg-gradient-to-t from-black to-transparent opacity-90"></div>
@@ -109,7 +109,7 @@ export default function Hero() {
                                                                 <div className="post-media panel overflow-hidden h-100">
                                                                     <div className="featured-image bg-gray-25 dark:bg-gray-800 h-100 d-none md:d-block">
                                                                         <canvas className="h-100 w-100"></canvas>
-                                                                        <img className="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/img-fallback.png" data-src="/assets/images/demo-seven/posts/img-18.jpg" alt="Virtual Reality and Mental Health: Exploring the Therapeutic" data-uc-img="loading: lazy"/>
+                                                                        <img className="media-cover image uc-transition-scale-up uc-transition-opaque" src="\assets\images\common\download (5).jpg" data-src="\assets\images\common\download (5).jpg" alt="Virtual Reality and Mental Health: Exploring the Therapeutic" data-uc-img="loading: lazy"/>
                                                                     </div>
                                                                     <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-16x9 d-block md:d-none">
                                                                         <img className="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/img-fallback.png" data-src="/assets/images/demo-seven/posts/img-18.jpg" alt="Virtual Reality and Mental Health: Exploring the Therapeutic" data-uc-img="loading: lazy"/>
@@ -154,10 +154,10 @@ export default function Hero() {
                                                                 <div className="post-media panel overflow-hidden h-100">
                                                                     <div className="featured-image bg-gray-25 dark:bg-gray-800 h-100 d-none md:d-block">
                                                                         <canvas className="h-100 w-100"></canvas>
-                                                                        <img className="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/img-fallback.png" data-src="/assets/images/demo-seven/posts/img-20.jpg" alt="Smart Homes, Smarter Living: Exploring IoT and AI" data-uc-img="loading: lazy"/>
+                                                                        <img className="media-cover image uc-transition-scale-up uc-transition-opaque" src="\assets\images\common\download (1) (1).jpg" data-src="\assets\images\common\download (1) (1).jpg" alt="Smart Homes, Smarter Living: Exploring IoT and AI" data-uc-img="loading: lazy"/>
                                                                     </div>
                                                                     <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-16x9 d-block md:d-none">
-                                                                        <img className="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/img-fallback.png" data-src="/assets/images/demo-seven/posts/img-20.jpg" alt="Smart Homes, Smarter Living: Exploring IoT and AI" data-uc-img="loading: lazy"/>
+                                                                        <img className="media-cover image uc-transition-scale-up uc-transition-opaque" src="\assets\images\common\download (1) (1).jpg" data-src="\assets\images\common\download (1) (1).jpg" alt="Smart Homes, Smarter Living: Exploring IoT and AI" data-uc-img="loading: lazy"/>
                                                                     </div>
                                                                 </div>
                                                                 <div className="position-cover bg-gradient-to-t from-black to-transparent opacity-90"></div>
