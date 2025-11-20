@@ -1,4 +1,3 @@
-import React from 'react'
 
 export default function About() {
   return (
@@ -64,8 +63,8 @@ export default function About() {
                                     <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-1x1">
                                       <img 
                                         className="media-cover image uc-transition-scale-up uc-transition-opaque" 
-                                        src="../assets/images/common/img-fallback.png" 
-                                        data-src="../assets/images/team/founder.jpg" 
+                                        src="https://as2.ftcdn.net/jpg/03/83/25/83/1000_F_383258331_D8imaEMl8Q3lf7EKU2Pi78Cn0R7KkW9o.jpg" 
+                                        data-src="https://as2.ftcdn.net/jpg/03/83/25/83/1000_F_383258331_D8imaEMl8Q3lf7EKU2Pi78Cn0R7KkW9o.jpg" 
                                         alt="Founder Name" 
                                         data-uc-img="loading: lazy"
                                       />
@@ -86,8 +85,8 @@ export default function About() {
                                     <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-1x1">
                                       <img 
                                         className="media-cover image uc-transition-scale-up uc-transition-opaque" 
-                                        src="../assets/images/common/img-fallback.png" 
-                                        data-src="../assets/images/team/team1.jpg" 
+                                        src="https://www.mnp.ca/-/media/foundation/integrations/personnel/2020/12/16/13/57/personnel-image-4483.jpg?h=800&iar=0&w=600&hash=833D605FDB6AC3C2D2915F6BF8B4ADA4" 
+                                        data-src="https://www.mnp.ca/-/media/foundation/integrations/personnel/2020/12/16/13/57/personnel-image-4483.jpg?h=800&iar=0&w=600&hash=833D605FDB6AC3C2D2915F6BF8B4ADA4" 
                                         alt="Team Member 1" 
                                         data-uc-img="loading: lazy"
                                       />
@@ -108,8 +107,8 @@ export default function About() {
                                     <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-1x1">
                                       <img 
                                         className="media-cover image uc-transition-scale-up uc-transition-opaque" 
-                                        src="../assets/images/common/img-fallback.png" 
-                                        data-src="../assets/images/team/team2.jpg" 
+                                        src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Pierre-Person.jpg" 
+                                        data-src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Pierre-Person.jpg" 
                                         alt="Team Member 2" 
                                         data-uc-img="loading: lazy"
                                       />
@@ -130,8 +129,8 @@ export default function About() {
                                     <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-1x1">
                                       <img 
                                         className="media-cover image uc-transition-scale-up uc-transition-opaque" 
-                                        src="../assets/images/common/img-fallback.png" 
-                                        data-src="../assets/images/team/team3.jpg" 
+                                        src="https://www.georgetown.edu/wp-content/uploads/2022/02/Jkramerheadshot-scaled-e1645036825432-1050x1050-c-default.jpg" 
+                                        data-src="https://www.georgetown.edu/wp-content/uploads/2022/02/Jkramerheadshot-scaled-e1645036825432-1050x1050-c-default.jpg" 
                                         alt="Team Member 3" 
                                         data-uc-img="loading: lazy"
                                       />
@@ -152,8 +151,8 @@ export default function About() {
                                     <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-1x1">
                                       <img 
                                         className="media-cover image uc-transition-scale-up uc-transition-opaque" 
-                                        src="../assets/images/common/img-fallback.png" 
-                                        data-src="../assets/images/team/team4.jpg" 
+                                        src="https://www.georgetown.edu/wp-content/uploads/2022/08/NatsuOnodaPower-1050x1050-c-default.jpeg" 
+                                        data-src="https://www.georgetown.edu/wp-content/uploads/2022/08/NatsuOnodaPower-1050x1050-c-default.jpeg" 
                                         alt="Team Member 4" 
                                         data-uc-img="loading: lazy"
                                       />
@@ -174,8 +173,8 @@ export default function About() {
                                     <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-1x1">
                                       <img 
                                         className="media-cover image uc-transition-scale-up uc-transition-opaque" 
-                                        src="../assets/images/common/img-fallback.png" 
-                                        data-src="../assets/images/team/team5.jpg" 
+                                        src="https://www.georgetown.edu/wp-content/uploads/2022/03/7-scaled-1050x1050-c-default.jpg" 
+                                        data-src="https://www.georgetown.edu/wp-content/uploads/2022/03/7-scaled-1050x1050-c-default.jpg" 
                                         alt="Team Member 5" 
                                         data-uc-img="loading: lazy"
                                       />
