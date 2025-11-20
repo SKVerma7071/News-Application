@@ -19,7 +19,9 @@ export default function HotNewsSlider() {
                                                     <article className="post type-post panel uc-transition-toggle vstack gap-2">
                                                         <div className="post-media panel overflow-hidden">
                                                             <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-3x2">
-                                                                <img className="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/img-fallback.png" data-src="/assets/images/demo-seven/posts/img-09.jpg" alt="Hidden Gems: Underrated Travel Destinations Around the World" data-uc-img="loading: lazy"/>
+                                                                <img className="media-cover image uc-transition-scale-up uc-transition-opaque" 
+                                                                src="\assets\images\common\image copy.png"
+                                                                 data-src="\assets\images\common\image copy.png" alt="Hidden Gems: Underrated Travel Destinations Around the World" data-uc-img="loading: lazy"/>
                                                             </div>
                                                             <a href="blog-details.html" className="position-cover"></a>
                                                         </div>
@@ -50,7 +52,9 @@ export default function HotNewsSlider() {
                                                     <article className="post type-post panel uc-transition-toggle vstack gap-2">
                                                         <div className="post-media panel overflow-hidden">
                                                             <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-3x2">
-                                                                <img className="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/img-fallback.png" data-src="/assets/images/demo-seven/posts/img-10.jpg" alt="Eco-Tourism: Traveling Responsibly and Sustainably" data-uc-img="loading: lazy"/>
+                                                                <img className="media-cover image uc-transition-scale-up uc-transition-opaque" 
+                                                                src="\assets\images\demo-seven\posts\image.png"
+                                                                 data-src="\assets\images\demo-seven\posts\image.png" alt="Eco-Tourism: Traveling Responsibly and Sustainably" data-uc-img="loading: lazy"/>
                                                             </div>
                                                             <a href="blog-details.html" className="position-cover"></a>
                                                         </div>
@@ -81,7 +85,9 @@ export default function HotNewsSlider() {
                                                     <article className="post type-post panel uc-transition-toggle vstack gap-2">
                                                         <div className="post-media panel overflow-hidden">
                                                             <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-3x2">
-                                                                <img className="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/img-fallback.png" data-src="/assets/images/demo-seven/posts/img-11.jpg" alt="Solo Travel: Some Tips and Destinations for the Adventurous Explorer" data-uc-img="loading: lazy"/>
+                                                                <img className="media-cover image uc-transition-scale-up uc-transition-opaque"
+                                                                 src="\assets\images\common\download (1).jpg" 
+                                                                 data-src="\images\common\download (1).jpg" alt="Solo Travel: Some Tips and Destinations for the Adventurous Explorer" data-uc-img="loading: lazy"/>
                                                             </div>
                                                             <a href="blog-details.html" className="position-cover"></a>
                                                         </div>
@@ -112,7 +118,9 @@ export default function HotNewsSlider() {
                                                     <article className="post type-post panel uc-transition-toggle vstack gap-2">
                                                         <div className="post-media panel overflow-hidden">
                                                             <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-3x2">
-                                                                <img className="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/img-fallback.png" data-src="/assets/images/demo-seven/posts/img-12.jpg" alt="AI-Powered Financial Planning: How Algorithms Revolutionizing" data-uc-img="loading: lazy"/>
+                                                                <img className="media-cover image uc-transition-scale-up uc-transition-opaque"
+                                                                 src="\assets\images\demo-two\download (3).jpg"
+                                                                  data-src="\assets\images\demo-two\download (3).jpg" alt="AI-Powered Financial Planning: How Algorithms Revolutionizing" data-uc-img="loading: lazy"/>
                                                             </div>
                                                             <a href="blog-details.html" className="position-cover"></a>
                                                         </div>
@@ -143,7 +151,9 @@ export default function HotNewsSlider() {
                                                     <article className="post type-post panel uc-transition-toggle vstack gap-2">
                                                         <div className="post-media panel overflow-hidden">
                                                             <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-3x2">
-                                                                <img className="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/img-fallback.png" data-src="/assets/images/demo-seven/posts/img-13.jpg" alt="Tech Tools for your Time Management: Enhancing Productivity" data-uc-img="loading: lazy"/>
+                                                                <img className="media-cover image uc-transition-scale-up uc-transition-opaque"
+                                                                 src="\assets\images\demo-seven\posts\download (3).jpg" 
+                                                                 data-src="\assets\images\demo-seven\posts\download (3).jpg" alt="Tech Tools for your Time Management: Enhancing Productivity" data-uc-img="loading: lazy"/>
                                                             </div>
                                                             <a href="blog-details.html" className="position-cover"></a>
                                                         </div>
@@ -174,13 +184,16 @@ export default function HotNewsSlider() {
                                                     <article className="post type-post panel uc-transition-toggle vstack gap-2">
                                                         <div className="post-media panel overflow-hidden">
                                                             <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-3x2">
-                                                                <img className="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/img-fallback.png" data-src="/assets/images/demo-seven/posts/img-14.jpg" alt="A Guide to The Rise of Gourmet Street Food: Trends and Top Picks" data-uc-img="loading: lazy"/>
+                                                                <img className="media-cover image uc-transition-scale-up uc-transition-opaque"
+                                                                 src="\assets\images\common\download (4).jpg" 
+                                                                 data-src="\assets\images\common\download (4).jpg" alt="A Guide to The Rise of Gourmet Street Food: Trends and Top Picks" data-uc-img="loading: lazy"/>
                                                             </div>
                                                             <a href="blog-details.html" className="position-cover"></a>
                                                         </div>
                                                         <div className="post-header panel vstack gap-1">
                                                             <h3 className="post-title h6 m-0 text-truncate-2">
-                                                                <a className="text-none hover:text-primary duration-150" href="blog-details.html">A Guide to The Rise of Gourmet Street Food: Trends and Top Picks</a>
+                                                                <a className="text-none hover:text-primary duration-150" 
+                                                                href="blog-details.html">A Guide to The Rise of Gourmet Street Food: Trends and Top Picks</a>
                                                             </h3>
                                                             <div className="post-meta panel hstack justify-start gap-1 fs-7 ft-tertiary fw-medium text-gray-900 dark:text-white text-opacity-60 d-none md:d-flex z-1 d-none md:d-block">
                                                                 <div>
@@ -205,13 +218,16 @@ export default function HotNewsSlider() {
                                                     <article className="post type-post panel uc-transition-toggle vstack gap-2">
                                                         <div className="post-media panel overflow-hidden">
                                                             <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-3x2">
-                                                                <img className="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/img-fallback.png" data-src="/assets/images/demo-seven/posts/img-15.jpg" alt="Gaming in the Age of AI: Strategies for Startups" data-uc-img="loading: lazy"/>
+                                                                <img className="media-cover image uc-transition-scale-up uc-transition-opaque"
+                                                                 src="\assets\images\demo-two\download (3).jpg"
+                                                                  data-src="\assets\images\demo-two\download (3).jpg" alt="Gaming in the Age of AI: Strategies for Startups" data-uc-img="loading: lazy"/>
                                                             </div>
                                                             <a href="blog-details.html" className="position-cover"></a>
                                                         </div>
                                                         <div className="post-header panel vstack gap-1">
                                                             <h3 className="post-title h6 m-0 text-truncate-2">
-                                                                <a className="text-none hover:text-primary duration-150" href="blog-details.html">Gaming in the Age of AI: Strategies for Startups</a>
+                                                                <a className="text-none hover:text-primary duration-150"
+                                                                 href="blog-details.html">Gaming in the Age of AI: Strategies for Startups</a>
                                                             </h3>
                                                             <div className="post-meta panel hstack justify-start gap-1 fs-7 ft-tertiary fw-medium text-gray-900 dark:text-white text-opacity-60 d-none md:d-flex z-1 d-none md:d-block">
                                                                 <div>
@@ -236,13 +252,16 @@ export default function HotNewsSlider() {
                                                     <article className="post type-post panel uc-transition-toggle vstack gap-2">
                                                         <div className="post-media panel overflow-hidden">
                                                             <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-3x2">
-                                                                <img className="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/img-fallback.png" data-src="/assets/images/demo-seven/posts/img-16.jpg" alt="Top Independent Contractors to Invest in Best of Startups" data-uc-img="loading: lazy"/>
+                                                                <img className="media-cover image uc-transition-scale-up uc-transition-opaque" 
+                                                                src="\assets\images\common\download (6).jpg"
+                                                                 data-src="\assets\images\common\download (6).jpg" alt="Top Independent Contractors to Invest in Best of Startups" data-uc-img="loading: lazy"/>
                                                             </div>
                                                             <a href="blog-details.html" className="position-cover"></a>
                                                         </div>
                                                         <div className="post-header panel vstack gap-1">
                                                             <h3 className="post-title h6 m-0 text-truncate-2">
-                                                                <a className="text-none hover:text-primary duration-150" href="blog-details.html">Top Independent Contractors to Invest in Best of Startups</a>
+                                                                <a className="text-none hover:text-primary duration-150" 
+                                                                href="blog-details.html">Top Independent Contractors to Invest in Best of Startups</a>
                                                             </h3>
                                                             <div className="post-meta panel hstack justify-start gap-1 fs-7 ft-tertiary fw-medium text-gray-900 dark:text-white text-opacity-60 d-none md:d-flex z-1 d-none md:d-block">
                                                                 <div>

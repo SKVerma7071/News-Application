@@ -22,7 +22,9 @@ export default function LatestNewsSection() {
                                                                 <div className="col-auto">
                                                                     <div className="post-media panel overflow-hidden max-w-150px min-w-100px lg:min-w-250px">
                                                                         <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-3x2">
-                                                                            <img className="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/img-fallback.png" data-src="/assets/images/demo-seven/posts/img-01.jpg" alt="The Rise of AI-Powered Personal Assistants: How They Manage" data-uc-img="loading: lazy"/>
+                                                                            <img className="media-cover image uc-transition-scale-up uc-transition-opaque" 
+                                                                            src="/assets/images/common/img-fallback.png" data-src="/assets/images/demo-seven/posts/img-01.jpg" 
+                                                                            alt="The Rise of AI-Powered Personal Assistants: How They Manage" data-uc-img="loading: lazy"/>
                                                                         </div>
                                                                         <a href="blog-details.html" className="position-cover"></a>
                                                                     </div>
@@ -30,7 +32,8 @@ export default function LatestNewsSection() {
                                                                 <div>
                                                                     <div className="post-header panel vstack justify-between gap-1">
                                                                         <h3 className="post-title h5 lg:h4 m-0 text-truncate-2">
-                                                                            <a className="text-none hover:text-primary duration-150" href="blog-details.html">The Rise of AI-Powered Personal Assistants: How They Manage</a>
+                                                                            <a className="text-none hover:text-primary duration-150"
+                                                                             href="blog-details.html">The Rise of AI-Powered Personal Assistants: How They Manage</a>
                                                                         </h3>
                                                                     </div>
                                                                     <p className="post-excrept ft-tertiary fs-6 text-gray-900 dark:text-white text-opacity-60 text-truncate-2 my-1">Law enforcement officers have been accused of sexually abusing children over the past two decades, a Post investigation found. Nisi dignissim tortor sed quam sed ipsum ut. Dolor sit amet, consectetur adipiscing elit.</p>

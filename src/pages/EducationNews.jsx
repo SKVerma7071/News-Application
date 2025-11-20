@@ -32,8 +32,8 @@ export default function EducationNews() {
                                     <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-16x9">
                                       <img 
                                         className="media-cover image uc-transition-scale-up uc-transition-opaque" 
-                                        src="../assets/images/common/img-fallback.png" 
-                                        data-src="../assets/images/education/school-news-1.jpg" 
+                                        src="https://tse4.mm.bing.net/th/id/OIP.QLskKIIco3rQamDE5cYIvAHaEK?rs=1&pid=ImgDetMain&o=7&rm=3" 
+                                        data-src="https://tse4.mm.bing.net/th/id/OIP.QLskKIIco3rQamDE5cYIvAHaEK?rs=1&pid=ImgDetMain&o=7&rm=3" 
                                         alt="New Curriculum Implementation in Schools" 
                                         data-uc-img="loading: lazy"
                                       />
@@ -65,8 +65,8 @@ export default function EducationNews() {
                                     <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-16x9">
                                       <img 
                                         className="media-cover image uc-transition-scale-up uc-transition-opaque" 
-                                        src="../assets/images/common/img-fallback.png" 
-                                        data-src="../assets/images/education/school-news-2.jpg" 
+                                        src="../assets/images/common/https://akm-img-a-in.tosshub.com/indiatoday/images/story/202209/Indicative_Images_HP_ALFA_1_1200x768.jpeg?VersionId=EIdhv92hpcykvVFPy9_tl9NXCGYAUM7y&size=690:388-fallback.png" 
+                                        data-src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/202209/Indicative_Images_HP_ALFA_1_1200x768.jpeg?VersionId=EIdhv92hpcykvVFPy9_tl9NXCGYAUM7y&size=690:388" 
                                         alt="Digital Classroom Initiative" 
                                         data-uc-img="loading: lazy"
                                       />
@@ -98,8 +98,8 @@ export default function EducationNews() {
                                     <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-16x9">
                                       <img 
                                         className="media-cover image uc-transition-scale-up uc-transition-opaque" 
-                                        src="../assets/images/common/img-fallback.png" 
-                                        data-src="../assets/images/education/school-news-3.jpg" 
+                                        src="https://pinasculture.com/wp-content/uploads/2024/09/essential_sports_infrastructure_development.jpg" 
+                                        data-src="https://pinasculture.com/wp-content/uploads/2024/09/essential_sports_infrastructure_development.jpg" 
                                         alt="Sports Infrastructure Development" 
                                         data-uc-img="loading: lazy"
                                       />
@@ -145,8 +145,8 @@ export default function EducationNews() {
                                     <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-16x9">
                                       <img 
                                         className="media-cover image uc-transition-scale-up uc-transition-opaque" 
-                                        src="../assets/images/common/img-fallback.png" 
-                                        data-src="../assets/images/education/higher-ed-1.jpg" 
+                                        src="https://collegevidya.com/blog/wp-content/uploads/2022/05/TOP-10-DATA-SCIENCE.jpg" 
+                                        data-src="https://collegevidya.com/blog/wp-content/uploads/2022/05/TOP-10-DATA-SCIENCE.jpg" 
                                         alt="New Engineering Programs" 
                                         data-uc-img="loading: lazy"
                                       />
@@ -178,8 +178,8 @@ export default function EducationNews() {
                                     <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-16x9">
                                       <img 
                                         className="media-cover image uc-transition-scale-up uc-transition-opaque" 
-                                        src="../assets/images/common/img-fallback.png" 
-                                        data-src="../assets/images/education/higher-ed-2.jpg" 
+                                        src="https://tse2.mm.bing.net/th/id/OIP.v8U9D7eOQoojWz-pXSshsQHaEo?rs=1&pid=ImgDetMain&o=7&rm=3" 
+                                        data-src="https://tse2.mm.bing.net/th/id/OIP.v8U9D7eOQoojWz-pXSshsQHaEo?rs=1&pid=ImgDetMain&o=7&rm=3" 
                                         alt="Research Grant Announcement" 
                                         data-uc-img="loading: lazy"
                                       />
@@ -211,8 +211,8 @@ export default function EducationNews() {
                                     <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-16x9">
                                       <img 
                                         className="media-cover image uc-transition-scale-up uc-transition-opaque" 
-                                        src="../assets/images/common/img-fallback.png" 
-                                        data-src="../assets/images/education/higher-ed-3.jpg" 
+                                        src="https://tse2.mm.bing.net/th/id/OIP.El8kMGJ27ek4nL89yySNigHaEj?rs=1&pid=ImgDetMain&o=7&rm=3" 
+                                        data-src="https://tse2.mm.bing.net/th/id/OIP.El8kMGJ27ek4nL89yySNigHaEj?rs=1&pid=ImgDetMain&o=7&rm=3" 
                                         alt="International Collaboration" 
                                         data-uc-img="loading: lazy"
                                       />
@@ -258,8 +258,8 @@ export default function EducationNews() {
                                     <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-16x9">
                                       <img 
                                         className="media-cover image uc-transition-scale-up uc-transition-opaque" 
-                                        src="../assets/images/common/img-fallback.png" 
-                                        data-src="../assets/images/education/admission-1.jpg" 
+                                        src="https://bsmedia.business-standard.com/_media/bs/img/article/2021-02/02/full/1612289405-8264.jpg?im=FeatureCrop,size=(826,465)" 
+                                        data-src="https://bsmedia.business-standard.com/_media/bs/img/article/2021-02/02/full/1612289405-8264.jpg?im=FeatureCrop,size=(826,465)" 
                                         alt="Engineering Entrance Results" 
                                         data-uc-img="loading: lazy"
                                       />
@@ -291,8 +291,8 @@ export default function EducationNews() {
                                     <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-16x9">
                                       <img 
                                         className="media-cover image uc-transition-scale-up uc-transition-opaque" 
-                                        src="../assets/images/common/img-fallback.png" 
-                                        data-src="../assets/images/education/admission-2.jpg" 
+                                        src="https://www.medlinkstudents.com/wp-content/uploads/2025/03/medical-school-admission-process-and-requirements.png" 
+                                        data-src="https://www.medlinkstudents.com/wp-content/uploads/2025/03/medical-school-admission-process-and-requirements.png" 
                                         alt="Medical College Admissions" 
                                         data-uc-img="loading: lazy"
                                       />
@@ -324,8 +324,8 @@ export default function EducationNews() {
                                     <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-16x9">
                                       <img 
                                         className="media-cover image uc-transition-scale-up uc-transition-opaque" 
-                                        src="../assets/images/common/img-fallback.png" 
-                                        data-src="../assets/images/education/admission-3.jpg" 
+                                        src="https://i.ytimg.com/vi/gKpbkTh7lAY/maxresdefault.jpg" 
+                                        data-src="https://i.ytimg.com/vi/gKpbkTh7lAY/maxresdefault.jpg" 
                                         alt="University Semester Results" 
                                         data-uc-img="loading: lazy"
                                       />
@@ -371,8 +371,8 @@ export default function EducationNews() {
                                     <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-16x9">
                                       <img 
                                         className="media-cover image uc-transition-scale-up uc-transition-opaque" 
-                                        src="../assets/images/common/img-fallback.png" 
-                                        data-src="../assets/images/education/scholarship-1.jpg" 
+                                        src="https://gdacy.com/wp-content/uploads/2024/05/National-Merit-Scholarship.jpg" 
+                                        data-src="https://gdacy.com/wp-content/uploads/2024/05/National-Merit-Scholarship.jpg" 
                                         alt="Merit Scholarship Scheme" 
                                         data-uc-img="loading: lazy"
                                       />
@@ -404,8 +404,8 @@ export default function EducationNews() {
                                     <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-16x9">
                                       <img 
                                         className="media-cover image uc-transition-scale-up uc-transition-opaque" 
-                                        src="../assets/images/common/img-fallback.png" 
-                                        data-src="../assets/images/education/scholarship-2.jpg" 
+                                        src="https://www.insightsonindia.com/wp-content/uploads/2025/01/beti.jpg" 
+                                        data-src="https://www.insightsonindia.com/wp-content/uploads/2025/01/beti.jpg" 
                                         alt="Girl Child Education Scheme" 
                                         data-uc-img="loading: lazy"
                                       />
@@ -437,8 +437,8 @@ export default function EducationNews() {
                                     <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-16x9">
                                       <img 
                                         className="media-cover image uc-transition-scale-up uc-transition-opaque" 
-                                        src="../assets/images/common/img-fallback.png" 
-                                        data-src="../assets/images/education/scholarship-3.jpg" 
+                                        src="https://teachersbadi.in/wp-content/uploads/2020/12/Post-Matric-Scholarship-for-SC-Students-768x461.jpeg" 
+                                        data-src="https://teachersbadi.in/wp-content/uploads/2020/12/Post-Matric-Scholarship-for-SC-Students-768x461.jpeg" 
                                         alt="SC/ST Scholarship" 
                                         data-uc-img="loading: lazy"
                                       />

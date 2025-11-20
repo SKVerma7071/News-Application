@@ -27,10 +27,14 @@ export default function Category3() {
                                                             <div className="post-media panel overflow-hidden h-100">
                                                                 <div className="featured-image bg-gray-25 dark:bg-gray-800 h-100 d-none md:d-block">
                                                                     <canvas className="h-100 w-100"></canvas>
-                                                                    <img className="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/img-fallback.png" data-src="/assets/images/demo-seven/posts/img-01.jpg" alt="The Rise of AI-Powered Personal Assistants: How They Manage" data-uc-img="loading: lazy"/>
+                                                                    <img className="media-cover image uc-transition-scale-up uc-transition-opaque"
+                                                                     src="/assets/images/common/img-fallback.png" data-src="/assets/images/demo-seven/posts/img-01.jpg" 
+                                                                     alt="The Rise of AI-Powered Personal Assistants: How They Manage" data-uc-img="loading: lazy"/>
                                                                 </div>
                                                                 <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-16x9 d-block md:d-none">
-                                                                    <img className="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/img-fallback.png" data-src="/assets/images/demo-seven/posts/img-01.jpg" alt="The Rise of AI-Powered Personal Assistants: How They Manage" data-uc-img="loading: lazy"/>
+                                                                    <img className="media-cover image uc-transition-scale-up uc-transition-opaque" 
+                                                                    src="/assets/images/common/img-fallback.png" data-src="/assets/images/demo-seven/posts/img-01.jpg"
+                                                                     alt="The Rise of AI-Powered Personal Assistants: How They Manage" data-uc-img="loading: lazy"/>
                                                                 </div>
                                                             </div>
                                                             <div className="position-cover bg-gradient-to-t from-black to-transparent opacity-90"></div>
@@ -39,7 +43,8 @@ export default function Category3() {
                                                                     <span>1min</span>
                                                                 </div>
                                                                 <h3 className="post-title h5 lg:h4 m-0 max-w-600px text-white text-truncate-2">
-                                                                    <a className="text-none text-white" href="blog-details.html">The Rise of AI-Powered Personal Assistants: How They Manage</a>
+                                                                    <a className="text-none text-white"
+                                                                     href="blog-details.html">The Rise of AI-Powered Personal Assistants: How They Manage</a>
                                                                 </h3>
                                                                 <div>
                                                                     <div className="post-meta panel hstack justify-between fs-7 text-white text-opacity-60 mt-1">
@@ -177,6 +182,9 @@ export default function Category3() {
                                         <div className="block-header panel pt-1 border-top">
                                             <h2 className="h6 ft-tertiary fw-bold ls-0 text-uppercase m-0 text-black dark:text-white">
                                                 <a className="hstack d-inline-flex gap-0 text-none hover:text-primary duration-150" href="blog-category.html">
+                                                 
+                                                 
+                                                 
                                                     <span>World</span>
                                                     <i className="icon-1 fw-bold unicon-chevron-right"></i>
                                                 </a>

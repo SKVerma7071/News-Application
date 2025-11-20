@@ -208,7 +208,9 @@ export default function Category() {
                                                                 <div className="post-media panel overflow-hidden max-w-72px min-w-72px">
                                                                     <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-1x1">
                                                                         <img className="media-cover image uc-transition-scale-up uc-transition-opaque"
-                                                                         src="\assets\images\demo-seven\posts\download (1).jpg" data-src="\assets\images\demo-seven\posts\download (1).jpg" alt="Solo Travel: Some Tips and Destinations for the Adventurous Explorer" data-uc-img="loading: lazy"/>
+                                                                         src="\assets\images\demo-seven\posts\download (1).jpg"
+                                                                          data-src="\assets\images\demo-seven\posts\download (1).jpg"
+                                                                           alt="Solo Travel: Some Tips and Destinations for the Adventurous Explorer" data-uc-img="loading: lazy"/>
                                                                     </div>
                                                                     <a href="blog-details.html" className="position-cover"></a>
                                                                 </div>
@@ -222,7 +224,8 @@ export default function Category() {
                                                             <div>
                                                                 <div className="post-header panel vstack justify-between gap-1">
                                                                     <h3 className="post-title h6 m-0 text-truncate-2">
-                                                                        <a className="text-none hover:text-primary duration-150" href="blog-details.html">Gaming in the Age of AI: Strategies for Startups</a>
+                                                                        <a className="text-none hover:text-primary duration-150"
+                                                                         href="blog-details.html">Gaming in the Age of AI: Strategies for Startups</a>
                                                                     </h3>
                                                                     <div className="post-date hstack gap-narrow fs-7 text-gray-900 dark:text-white text-opacity-60 d-none md:d-flex">
                                                                         <span>9mo</span>
@@ -232,8 +235,10 @@ export default function Category() {
                                                             <div className="col-auto">
                                                                 <div className="post-media panel overflow-hidden max-w-72px min-w-72px">
                                                                     <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-1x1">
-                                                                        <img className="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/demo-seven/posts/download (2).jpg" data-src="/assets/images/demo-seven/posts/download (2
-                                                                        ).jpg" alt="Gaming in the Age of AI: Strategies for Startups" data-uc-img="loading: lazy"/>
+                                                                        <img className="media-cover image uc-transition-scale-up uc-transition-opaque" 
+                                                                        src="/assets/images/demo-seven/posts/download (2).jpg"
+                                                                         data-src="/assets/images/demo-seven/posts/download (2).jpg"
+                                                                          alt="Gaming in the Age of AI: Strategies for Startups" data-uc-img="loading: lazy"/>
                                                                     </div>
                                                                     <a href="blog-details.html" className="position-cover"></a>
                                                                 </div>

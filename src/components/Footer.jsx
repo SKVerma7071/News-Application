@@ -5,21 +5,21 @@ const Footer = () => {
   const popularPosts = [
     {
       id: 1,
-      image: "/assets/img/gallery/footer_post1.png",
-      title: "Examination Pattern 2024",
+      image: "https://www.iibedu.com/iib-neetcoaching/wp-content/uploads/2024/07/NEET-2025-Exam-Pattern-and-Marking-Scheme.jpg",
+      title: "Examination Pattern 2025",
       category: "Education News",
       time: "2 hours ago"
     },
     {
       id: 2,
-      image: "/assets/img/gallery/footer_post2.png",
+      image: "https://thumbs.dreamstime.com/b/web-358059887.jpg",
       title: "Colleges Admissions Open",
       category: "Admissions",
       time: "5 hours ago"
     },
     {
       id: 3,
-      image: "/assets/img/gallery/footer_post3.png",
+      image: "https://cdn.prod.website-files.com/620e4101b2ce12a1a6bff0e8/64ec81996f5fb55c1432762b_Header_How%20to%20Get%20a%20Scholarship%20for%20Students%20101_APRIL23.webp",
       title: "Free Scholarship ",
       category: "Scholarships",
       time: "1 day ago"
@@ -168,7 +168,7 @@ const Footer = () => {
                 <div className="col-xl-12">
                   <div className="footer-copy-right text-center">
                     <p className="mb-2">
-                      Copyright &copy; {new Date().getFullYear()} EduPortal. All rights reserved.
+                      Copyright &copy; {new Date().getFullYear()} CampusBulletin. All rights reserved.
                     </p>
                     <div className="footer-bottom-links">
                       <Link to="/disclaimer">Disclaimer</Link>
