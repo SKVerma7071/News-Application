@@ -12,11 +12,13 @@ export default function Strip() {
             <div className="block-layout slider-thumbs-layout slider-thumbs panel vstack gap-2 lg:gap-3 panel overflow-hidden">
               <div className="block-header panel">
                 <h2 className="h6 ft-tertiary fw-bold ls-0 text-uppercase hstack gap-narrow m-0 text-black dark:text-white">
-                  <i
+                  {/* <i
                     className="icon-1 fw-bold unicon-dot-mark text-red"
                     data-uc-animate="flash"
-                  ></i>
-                  <span>Live now</span>
+                  ></i> */}
+                  <i className="uil-circle live-dot"></i>
+
+                  <span>Live now--</span>
                 </h2>
               </div>
               <div className="block-content">
@@ -95,7 +97,10 @@ export default function Strip() {
                                             href="#post_comment"
                                             className="post-comments text-none hstack gap-narrow"
                                           >
-                                            <i className="icon-narrow unicon-chat"></i>
+                                            <i
+                                              className="uil-comment"
+                                              style={{ fontSize: "20px" }}
+                                            ></i>{" "}
                                             <span>0</span>
                                           </a>
                                         </div>
@@ -176,7 +181,10 @@ export default function Strip() {
                                             href="#post_comment"
                                             className="post-comments text-none hstack gap-narrow"
                                           >
-                                            <i className="icon-narrow unicon-chat"></i>
+                                            <i
+                                              className="uil-comment"
+                                              style={{ fontSize: "20px" }}
+                                            ></i>{" "}
                                             <span>23</span>
                                           </a>
                                         </div>
@@ -257,7 +265,10 @@ export default function Strip() {
                                             href="#post_comment"
                                             className="post-comments text-none hstack gap-narrow"
                                           >
-                                            <i className="icon-narrow unicon-chat"></i>
+                                            <i
+                                              className="uil-comment"
+                                              style={{ fontSize: "20px" }}
+                                            ></i>{" "}
                                             <span>112</span>
                                           </a>
                                         </div>
@@ -338,7 +349,10 @@ export default function Strip() {
                                             href="#post_comment"
                                             className="post-comments text-none hstack gap-narrow"
                                           >
-                                            <i className="icon-narrow unicon-chat"></i>
+                                            <i
+                                              className="uil-comment"
+                                              style={{ fontSize: "20px" }}
+                                            ></i>{" "}
                                             <span>2</span>
                                           </a>
                                         </div>
@@ -403,7 +417,8 @@ export default function Strip() {
                                     </div>
                                     <div className="has-video-overlay position-absolute top-0 end-0 w-40px h-40px lg:w-64px lg:h-64px bg-gradient-45 from-transparent via-transparent to-black opacity-50"></div>
                                     <span className="cstack has-video-icon position-absolute top-50 start-50 translate-middle fs-6 w-40px h-40px text-white">
-                                      <i className="icon-narrow unicon-play-filled-alt"></i>
+                                      {/* <i className="icon-narrow unicon-play-filled-alt"></i> */}
+                                      <i className="uil-play"></i>
                                     </span>
                                   </div>
                                 </div>
@@ -442,7 +457,8 @@ export default function Strip() {
                                     </div>
                                     <div className="has-video-overlay position-absolute top-0 end-0 w-40px h-40px lg:w-64px lg:h-64px bg-gradient-45 from-transparent via-transparent to-black opacity-50"></div>
                                     <span className="cstack has-video-icon position-absolute top-50 start-50 translate-middle fs-6 w-40px h-40px text-white">
-                                      <i className="icon-narrow unicon-play-filled-alt"></i>
+                                      {/* <i className="icon-narrow unicon-play-filled-alt"></i> */}
+                                      <i className="uil-play"></i>
                                     </span>
                                   </div>
                                 </div>
@@ -481,7 +497,8 @@ export default function Strip() {
                                     </div>
                                     <div className="has-video-overlay position-absolute top-0 end-0 w-40px h-40px lg:w-64px lg:h-64px bg-gradient-45 from-transparent via-transparent to-black opacity-50"></div>
                                     <span className="cstack has-video-icon position-absolute top-50 start-50 translate-middle fs-6 w-40px h-40px text-white">
-                                      <i className="icon-narrow unicon-play-filled-alt"></i>
+                                      {/* <i className="icon-narrow unicon-play-filled-alt"></i> */}
+                                      <i className="uil-play"></i>
                                     </span>
                                   </div>
                                 </div>
@@ -520,7 +537,8 @@ export default function Strip() {
                                     </div>
                                     <div className="has-video-overlay position-absolute top-0 end-0 w-40px h-40px lg:w-64px lg:h-64px bg-gradient-45 from-transparent via-transparent to-black opacity-50"></div>
                                     <span className="cstack has-video-icon position-absolute top-50 start-50 translate-middle fs-6 w-40px h-40px text-white">
-                                      <i className="icon-narrow unicon-play-filled-alt"></i>
+                                      {/* <i className="icon-narrow unicon-play-filled-alt"></i> */}
+                                      <i className="uil-play"></i>
                                     </span>
                                   </div>
                                 </div>

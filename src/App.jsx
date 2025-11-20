@@ -30,7 +30,7 @@ function App() {
   useEffect(() => {
     UIkit.update();
   }, [location.pathname]);
-const noLayoutRoutes = ["/admin"];
+  const noLayoutRoutes = ["/admin"];
 
   const hideLayout = noLayoutRoutes.includes(location.pathname);
   return (
@@ -51,8 +51,8 @@ const noLayoutRoutes = ["/admin"];
           <Route path="/study-resources" element={<StudyResources />} />
           <Route path="/video-lectures" element={<VideoLecturesEnhanced />} />
           <Route path="/scholarship" element={<ScholarshipsCareer />} />
-           <Route path="/contactus" element={<ContactUs />} />
-           <Route path="/admin" element={<Login />} />
+          <Route path="/contactus" element={<ContactUs />} />
+          <Route path="/admin" element={<Login />} />
           <Route
             path="/institution-directory"
             element={<InstitutionDirectory />}

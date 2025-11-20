@@ -187,10 +187,11 @@ export default function Header() {
                     href="#live_now"
                     data-uc-scroll="offset: 128"
                   >
-                    <i
+                    {/* <i
                       className="icon icon-narrow unicon-dot-mark text-red"
                       data-uc-animate="flash"
-                    ></i>
+                    ></i> */}
+                    <i className="uil-circle live-dot"></i>
                     <span>Live</span>
                   </a>
                 </div>
@@ -228,32 +229,34 @@ export default function Header() {
                     href="#live_now"
                     data-uc-scroll="offset: 128"
                   >
-                    <i
+                    {/* <i
                       className="icon icon-narrow unicon-dot-mark text-red"
                       data-uc-animate="flash"
-                    ></i>
+                    ></i> */}
+                    <i className="uil-circle live-dot"></i>
                     <span>Live</span>
                   </a>
                 </div>
 
                 {/* Action Icons */}
                 {[
-                  {
-                    className: "uc-cart-trigger",
-                    icon: "unicon-shopping-basket",
-                    href: "#uc-cart-panel",
-                  },
+                  // {
+                  //   className: "uc-cart-trigger",
+                  //   icon: "unicon-shopping-basket",
+                  //   href: "#uc-cart-panel",
+                  // },
                   {
                     className: "uc-account-trigger d-none lg:d-inline-flex",
-                    icon: "unicon-user-avatar",
-                    href: "#uc-account-modal",
+                    icon: "uil-user-circle",
+                    href: "/admin",
+                    name: "Admin",
                   },
-                  {
-                    className:
-                      "uc-search-trigger cstack text-none text-dark dark:text-white d-none lg:d-inline-flex",
-                    icon: "unicon-search",
-                    href: "#uc-search-modal",
-                  },
+                  // {
+                  //   className:
+                  //     "uc-search-trigger cstack text-none text-dark dark:text-white d-none lg:d-inline-flex",
+                  //   icon: "unicon-search",
+                  //   href: "#uc-search-modal",
+                  // },
                 ].map((action, index) => (
                   <div
                     key={index}
@@ -270,13 +273,17 @@ export default function Header() {
                       href={action.href}
                       data-uc-toggle
                     >
-                      <i className={`icon icon-2 fw-medium ${action.icon}`}></i>
+                      <i
+                        className={`${action.icon}`}
+                        style={{ fontSize: "35px" }}
+                      ></i>
+                      <spa>{action.name}</spa>
                     </a>
                   </div>
                 ))}
 
                 {/* Dark Mode Toggle */}
-                <div className="uc-navbar-item d-none lg:d-inline-flex">
+                {/* <div className="uc-navbar-item d-none lg:d-inline-flex">
                   <div
                     className="uc-modes-trigger btn btn-xs w-32px h-32px p-0 border fw-normal rounded-circle dark:text-white hover:bg-gray-25 dark:hover:bg-gray-900"
                     data-darkmode-toggle=""
@@ -287,7 +294,7 @@ export default function Header() {
                       <span className="slider"></span>
                     </label>
                   </div>
-                </div>
+                </div> */}
               </div>
             </div>
           </div>
