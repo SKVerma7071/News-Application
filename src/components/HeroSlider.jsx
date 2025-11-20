@@ -18,7 +18,7 @@ export default function HeroSlider() {
                                                             <div className="col-auto">
                                                                 <div className="post-media panel overflow-hidden max-w-64px min-w-64px">
                                                                     <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-1x1">
-                                                                        <img className="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/img-fallback.png" data-src="/assets/images/demo-seven/posts/img-09.jpg" alt="Hidden Gems: Underrated Travel Destinations Around the World" data-uc-img="loading: lazy"/>
+                                                                        <img className="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/image.png" data-src="/assets/images/demo-seven/posts/image copy.png" alt="Hidden Gems: Underrated Travel Destinations Around the World" data-uc-img="loading: lazy"/>
                                                                     </div>
                                                                     <a href="blog-details.html" className="position-cover"></a>
                                                                 </div>
@@ -41,7 +41,7 @@ export default function HeroSlider() {
                                                             <div className="col-auto">
                                                                 <div className="post-media panel overflow-hidden max-w-64px min-w-64px">
                                                                     <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-1x1">
-                                                                        <img className="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/img-fallback.png" data-src="/assets/images/demo-seven/posts/img-10.jpg" alt="Eco-Tourism: Traveling Responsibly and Sustainably" data-uc-img="loading: lazy"/>
+                                                                        <img className="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/image copy.png" data-src="/assets/images/demo-seven/posts/image.png" alt="Eco-Tourism: Traveling Responsibly and Sustainably" data-uc-img="loading: lazy"/>
                                                                     </div>
                                                                     <a href="blog-details.html" className="position-cover"></a>
                                                                 </div>
@@ -64,7 +64,7 @@ export default function HeroSlider() {
                                                             <div className="col-auto">
                                                                 <div className="post-media panel overflow-hidden max-w-64px min-w-64px">
                                                                     <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-1x1">
-                                                                        <img className="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/img-fallback.png" data-src="/assets/images/demo-seven/posts/img-11.jpg" alt="Solo Travel: Some Tips and Destinations for the Adventurous Explorer" data-uc-img="loading: lazy"/>
+                                                                        <img className="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/demo-seven/posts/download (1).jpg" data-src="/assets/images/demo-seven/posts/download (1).jpg" alt="Solo Travel: Some Tips and Destinations for the Adventurous Explorer" data-uc-img="loading: lazy"/>
                                                                     </div>
                                                                     <a href="blog-details.html" className="position-cover"></a>
                                                                 </div>
@@ -87,7 +87,7 @@ export default function HeroSlider() {
                                                             <div className="col-auto">
                                                                 <div className="post-media panel overflow-hidden max-w-64px min-w-64px">
                                                                     <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-1x1">
-                                                                        <img className="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/img-fallback.png" data-src="/assets/images/demo-seven/posts/img-12.jpg" alt="AI-Powered Financial Planning: How Algorithms Revolutionizing" data-uc-img="loading: lazy"/>
+                                                                        <img className="media-cover image uc-transition-scale-up uc-transition-opaque" src="\assets\images\common\download (2).jpg" data-src="/assets/images/demo-seven/posts/download (2).jpg" alt="AI-Powered Financial Planning: How Algorithms Revolutionizing" data-uc-img="loading: lazy"/>
                                                                     </div>
                                                                     <a href="blog-details.html" className="position-cover"></a>
                                                                 </div>
@@ -110,7 +110,7 @@ export default function HeroSlider() {
                                                             <div className="col-auto">
                                                                 <div className="post-media panel overflow-hidden max-w-64px min-w-64px">
                                                                     <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-1x1">
-                                                                        <img className="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/img-fallback.png" data-src="/assets/images/demo-seven/posts/img-13.jpg" alt="Tech Tools for your Time Management: Enhancing Productivity" data-uc-img="loading: lazy"/>
+                                                                        <img className="media-cover image uc-transition-scale-up uc-transition-opaque" src="\assets\images\common\download (2).jpg" data-src="" alt="Tech Tools for your Time Management: Enhancing Productivity" data-uc-img="loading: lazy"/>
                                                                     </div>
                                                                     <a href="blog-details.html" className="position-cover"></a>
                                                                 </div>
@@ -133,7 +133,7 @@ export default function HeroSlider() {
                                                             <div className="col-auto">
                                                                 <div className="post-media panel overflow-hidden max-w-64px min-w-64px">
                                                                     <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-1x1">
-                                                                        <img className="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/img-fallback.png" data-src="/assets/images/demo-seven/posts/img-14.jpg" alt="A Guide to The Rise of Gourmet Street Food: Trends and Top Picks" data-uc-img="loading: lazy" />
+                                                                        <img className="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/download (4).jpg" data-src="/assets/images/common/download (4).jpg" alt="A Guide to The Rise of Gourmet Street Food: Trends and Top Picks" data-uc-img="loading: lazy" />
                                                                     </div>
                                                                     <a href="blog-details.html" className="position-cover"></a>
                                                                 </div>
@@ -156,7 +156,7 @@ export default function HeroSlider() {
                                                             <div className="col-auto">
                                                                 <div className="post-media panel overflow-hidden max-w-64px min-w-64px">
                                                                     <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-1x1">
-                                                                        <img className="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/img-fallback.png" data-src="/assets/images/demo-seven/posts/img-15.jpg" alt="Gaming in the Age of AI: Strategies for Startups" data-uc-img="loading: lazy"/>
+                                                                        <img className="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/download (5).jpg" data-src="/assets/images/common/download (5).jpg" alt="Gaming in the Age of AI: Strategies for Startups" data-uc-img="loading: lazy"/>
                                                                     </div>
                                                                     <a href="blog-details.html" className="position-cover"></a>
                                                                 </div>
@@ -179,7 +179,7 @@ export default function HeroSlider() {
                                                             <div className="col-auto">
                                                                 <div className="post-media panel overflow-hidden max-w-64px min-w-64px">
                                                                     <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-1x1">
-                                                                        <img className="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/img-fallback.png" data-src="/assets/images/demo-seven/posts/img-16.jpg" alt="Top Independent Contractors to Invest in Best of Startups" data-uc-img="loading: lazy"/>
+                                                                        <img className="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/download (6).jpg" data-src="/assets/images/common/download (6).jpg" data-uc-img="loading: lazy"/>
                                                                     </div>
                                                                     <a href="blog-details.html" className="position-cover"></a>
                                                                 </div>

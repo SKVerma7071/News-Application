@@ -19,7 +19,7 @@ export default function Hero() {
                                                                 <div className="post-media panel overflow-hidden h-100">
                                                                     <div className="featured-image bg-gray-25 dark:bg-gray-800 h-100 d-none md:d-block">
                                                                         <canvas className="h-100 w-100"></canvas>
-                                                                        <img className="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/img-fallback.png" data-src="/assets/images/demo-seven/posts/img-11.jpg" alt="Solo Travel: Some Tips and Destinations for the Adventurous Explorer" data-uc-img="loading: lazy"/>
+                                                                        <img className="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/image.png" data-src="\assets\images\common\download (2).jpg" alt="Solo Travel: Some Tips and Destinations for the Adventurous Explorer" data-uc-img="loading: lazy"/>
                                                                     </div>
                                                                     <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-16x9 d-block md:d-none">
                                                                         <img className="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/img-fallback.png" data-src="/assets/images/demo-seven/posts/img-11.jpg" alt="Solo Travel: Some Tips and Destinations for the Adventurous Explorer" data-uc-img="loading: lazy"/>
@@ -39,7 +39,7 @@ export default function Hero() {
                                                                                 <div className="hstack gap-2">
                                                                                     <div>
                                                                                         <div className="post-author hstack gap-1">
-                                                                                            <a href="page-author.html" data-uc-tooltip="Peter Sawyer"><img src="/images/avatars/02.png" alt="Peter Sawyer" className="w-24px h-24px rounded-circle"/></a>
+                                                                                            <a href="page-author.html" data-uc-tooltip="Peter Sawyer"><img src="/images/avatars/01.png" alt="Peter Sawyer" className="w-24px h-24px rounded-circle"/></a>
                                                                                             <a href="page-author.html" className="text-black dark:text-white text-none fw-bold">Peter Sawyer</a>
                                                                                         </div>
                                                                                     </div>
