@@ -19,6 +19,8 @@ import VideoLecturesEnhanced from "./pages/EnhancedVideoLectures";
 import ScholarshipsCareer from "./pages/ScholarshipsCareer";
 import InstitutionDirectory from "./pages/InstitutionDirectory";
 import KnowledgeHub from "./pages/KnowledgeHub";
+import ContactUs from "./pages/ContactUs";
+import Login from "./pages/Login";
 
 function App() {
   const location = useLocation();
@@ -27,13 +29,15 @@ function App() {
   useEffect(() => {
     UIkit.update();
   }, [location.pathname]);
+const noLayoutRoutes = ["/admin"];
 
+  const hideLayout = noLayoutRoutes.includes(location.pathname);
   return (
     <ModalProvider>
       <ModalContainer />
 
       {/* Header always visible */}
-      <Header />
+      {!hideLayout && <Header />}
 
       <main>
         <Routes>
@@ -46,6 +50,8 @@ function App() {
           <Route path="/study-resources" element={<StudyResources />} />
           <Route path="/video-lectures" element={<VideoLecturesEnhanced />} />
           <Route path="/scholarship" element={<ScholarshipsCareer />} />
+           <Route path="/contactus" element={<ContactUs />} />
+           <Route path="/admin" element={<Login />} />
           <Route
             path="/institution-directory"
             element={<InstitutionDirectory />}
@@ -57,7 +63,7 @@ function App() {
       </main>
 
       {/* Footer always visible */}
-      <Footer />
+      {!hideLayout && <Footer />}
     </ModalProvider>
   );
 }

@@ -14,7 +14,8 @@ export default function Header() {
     { href: "scholarship", label: "Scholarship & Career" },
     { href: "institution-directory", label: "Institution Directory" },
     { href: "knowledge-hub", label: "Knowledge Hub" },
-    { href: "blog-category", label: "Contact Us" },
+    { href: "contactus", label: "Contact Us" },
+    { href: "admin", label: "Admin" },
   ];
 
   // Ticker items data
@@ -87,12 +88,12 @@ export default function Header() {
           <div className="container max-w-xl">
             <div className="navbar-container hstack border-bottom">
               <div className="uc-navbar-center gap-2 lg:gap-3 flex-1">
-                <ul className="uc-navbar-nav gap-3 justify-between flex-1 fs-6 fw-bold">
+                <ul className="uc-navbar-nav gap-2 justify-between flex-1 fs-6 fw-bold">
                   {/* Categories Dropdown */}
                   <li>
-                    <a href="#">
+                    {/* <a href="#">
                       <span className="icon-1 unicon-finance"></span>
-                    </a>
+                    </a> */}
                     <div
                       className="uc-navbar-dropdown ft-primary text-unset p-3 pb-4 rounded-0 hide-scrollbar"
                       data-uc-drop="offset: 0; boundary: !.navbar-container; stretch: x; animation: uc-animation-slide-top-small; duration: 150;"
