@@ -21,6 +21,7 @@ import InstitutionDirectory from "./pages/InstitutionDirectory";
 import KnowledgeHub from "./pages/KnowledgeHub";
 import ContactUs from "./pages/ContactUs";
 import Login from "./pages/Login";
+import BlogDetail from "./pages/BlogDetails";
 
 function App() {
   const location = useLocation();
@@ -42,7 +43,7 @@ const noLayoutRoutes = ["/admin"];
       <main>
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/blog-category" element={<BlogCategory />} />
+          {/* <Route path="/blog-category" element={<BlogCategory />} /> */}
           <Route path="/blog" element={<ModernBlog />} />
           <Route path="/blog-details" element={<BlogDetails />} />
           <Route path="/about-us" element={<About />} />
@@ -56,6 +57,8 @@ const noLayoutRoutes = ["/admin"];
             path="/institution-directory"
             element={<InstitutionDirectory />}
           />
+          <Route path="/blog/:id" element={<BlogDetail />} />
+          <Route path="/blog-category/:category" element={<BlogCategory />} />
           <Route path="/knowledge-hub" element={<KnowledgeHub />} />
           {/* 404 */}
           <Route path="*" element={<NotFound />} />

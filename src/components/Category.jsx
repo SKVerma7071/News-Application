@@ -11,7 +11,7 @@ export default function Category() {
                                     <div className="block-layout grid-layout vstack gap-2 lg:gap-3 panel overflow-hidden">
                                         <div className="block-header panel pt-1 border-top">
                                             <h2 className="h6 ft-tertiary fw-bold ls-0 text-uppercase m-0 text-black dark:text-white">
-                                                <a className="hstack d-inline-flex gap-0 text-none hover:text-primary duration-150" href="blog-category.html">
+                                                <a className="hstack d-inline-flex gap-0 text-none hover:text-primary duration-150" href="/blog-category/politics">
                                                     <span>Poltics</span>
                                                     <i className="icon-1 fw-bold unicon-chevron-right"></i>
                                                 </a>
