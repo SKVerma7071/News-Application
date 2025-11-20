@@ -37,7 +37,7 @@ const Footer = () => {
                 <div className="single-footer-caption mb-50">
                   <div className="footer-logo">
                     <Link to="/">
-                      <img src="/assets/img/logo/logo2_footer.png" alt="EduPortal Logo" />
+                      <img src="/images/demo-seven/common/logo2_footer.png" alt="EduPortal Logo" />
                     </Link>
                   </div>
                   <div className="footer-tittle">
@@ -49,26 +49,33 @@ const Footer = () => {
                   </div>
                   
                   {/* Social Media Icons */}
-                  <div className="footer-social mt-4">
-                    <h4 className="mb-3">Follow Us</h4>
-                    <div className="social-icons">
-                      <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" aria-label="Facebook">
-                        <i className="fab fa-facebook-f"></i>
-                      </a>
-                      <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" aria-label="Twitter">
-                        <i className="fab fa-twitter"></i>
-                      </a>
-                      <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
-                        <i className="fab fa-instagram"></i>
-                      </a>
-                      <a href="https://youtube.com" target="_blank" rel="noopener noreferrer" aria-label="YouTube">
-                        <i className="fab fa-youtube"></i>
-                      </a>
-                      <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
-                        <i className="fab fa-linkedin-in"></i>
-                      </a>
-                    </div>
-                  </div>
+                 <div className="footer-social mt-4">
+  <h4 className="mb-3">Follow Us</h4>
+  <div className="social-icons">
+
+    <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" aria-label="Facebook">
+      <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" className="social-icon-img" />
+    </a>
+
+    <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" aria-label="Twitter">
+      <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" className="social-icon-img" />
+    </a>
+
+    <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" className="social-icon-img" />
+    </a>
+
+    <a href="https://youtube.com" target="_blank" rel="noopener noreferrer" aria-label="YouTube">
+      <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" className="social-icon-img" />
+    </a>
+
+    <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+      <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" className="social-icon-img" />
+    </a>
+
+  </div>
+</div>
+
                 </div>
               </div>
 

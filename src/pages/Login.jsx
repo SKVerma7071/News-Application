@@ -10,7 +10,9 @@ export default function Login() {
                             <div className="d-none lg:d-block">
                                 <figure className="panel h-100 m-0 bg-gray-25 dark:bg-gray-900 bg-gray-25 dark:bg-gray-800">
                                     <canvas className="h-100 w-100"></canvas>
-                                    <img className="media-cover image" src="../assets/images/common/img-fallback.png" data-src="../assets/images/demo-seven/common/my-account.jpg" alt="My account" data-uc-img="loading: lazy"/>
+                                    <img className="media-cover image" src="https://tse4.mm.bing.net/th/id/OIP.0gdLhUQbKMzjHLNWeCREoAHaHa?w=512&h=512&rs=1&pid=ImgDetMain&o=7&rm=3"
+                                     data-src="https://tse4.mm.bing.net/th/id/OIP.0gdLhUQbKMzjHLNWeCREoAHaHa?w=512&h=512&rs=1&pid=ImgDetMain&o=7&rm=3" alt="My account"
+                                      data-uc-img="loading: lazy"/>
                                 </figure>
                             </div>
                             <div>
@@ -18,8 +20,8 @@ export default function Login() {
                                     <div data-anime="targets: >*; translateY: [-24, 0]; opacity: [0, 1]; easing: easeInOutCubic; duration: 750; delay: anime.stagger(100);">
                                         <div className="uc-logo cstack mx-auto mb-6 lg:mb-8">
                                             <a href="index.html">
-                                                <img className="w-100px lg:w-128px text-dark dark:text-white hover:text-primary transition-color duration-150 d-none dark:d-block" src="../assets/images/demo-seven/common/logo-dark.svg" alt="Sign in"/>
-                                                <img className="w-100px lg:w-128px text-dark dark:text-white hover:text-primary transition-color duration-150 d-block dark:d-none" src="../assets/images/demo-seven/common/logo-light.svg" alt="Sign in"/>
+                                                {/* <img className="w-100px lg:w-128px text-dark dark:text-white hover:text-primary transition-color duration-150 d-none dark:d-block" src="../assets/images/demo-seven/common/logo-dark.svg" alt="Sign in"/>
+                                                <img className="w-100px lg:w-128px text-dark dark:text-white hover:text-primary transition-color duration-150 d-block dark:d-none" src="../assets/images/demo-seven/common/logo-light.svg" alt="Sign in"/> */}
                                             </a>
                                         </div>
                                     </div>
@@ -46,14 +48,14 @@ export default function Login() {
                                                 <input className="form-control form-control-sm h-40px w-full fs-6 bg-white dark:bg-opacity-0 dark:text-white dark:border-gray-300 dark:border-opacity-30" type="password" placeholder="Password" autocomplete="new-password" required/>
                                                 <div className="hstack justify-between text-start">
                                                     <div className="form-check text-start">
-                                                        <input id="form_remember_me" className="form-check-input rounded bg-white dark:bg-opacity-0 dark:text-white dark:border-gray-300 dark:border-opacity-30" type="checkbox"/>
-                                                        <label for="form_remember_me" className="hstack justify-between form-check-label fs-6">Remember me?</label>
+                                                        {/* <input id="form_remember_me" className="form-check-input rounded bg-white dark:bg-opacity-0 dark:text-white dark:border-gray-300 dark:border-opacity-30" type="checkbox"/> */}
+                                                        {/* <label for="form_remember_me" className="hstack justify-between form-check-label fs-6">Remember me?</label> */}
                                                     </div>
-                                                    <a href="reset-password.html" className="uc-link fs-6">Forgot password</a>
+                                                    {/* <a href="reset-password.html" className="uc-link fs-6">Forgot password</a> */}
                                                 </div>
                                                 <button className="btn btn-primary btn-sm mt-1" type="submit">Log in</button>
                                             </form>
-                                            <p>Have no account yet? <a className="uc-link" href="sign-up.html">Sign up</a></p>
+                                            {/* <p>Have no account yet? <a className="uc-link" href="sign-up.html">Sign up</a></p> */}
                                         </div>
                                     </div>
                                 </div>
