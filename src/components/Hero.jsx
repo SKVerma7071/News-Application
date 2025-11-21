@@ -1,4 +1,3 @@
-import React from "react";
 
 export default function Hero() {
   return (
@@ -394,18 +393,18 @@ export default function Hero() {
                           <div className="widget-content">
                             <a
                               className="cstack max-w-300px mx-auto text-none"
-                              href="https://themeforest.net/user/reacthemes/portfolio"
+                              href="https://cuttingedgepr.com/wp-content/uploads/2020/06/Sponsorship-Become-a-Sponsor-3-iStock-881120664-980x631.jpg"
                               target="_blank"
                               rel="nofollow"
                             >
                               <img
                                 className="d-none sm:d-block"
-                                src="/assets/images/common/ad-desktop.jpg"
+                                src="https://cuttingedgepr.com/wp-content/uploads/2020/06/Sponsorship-Become-a-Sponsor-3-iStock-881120664-980x631.jpg"
                                 alt="Ad slot"
                               />
                               <img
                                 className="d-block sm:d-none"
-                                src="/assets/images/common/ad-mobile.jpg"
+                                src="https://cuttingedgepr.com/wp-content/uploads/2020/06/Sponsorship-Become-a-Sponsor-3-iStock-881120664-980x631.jpg"
                                 alt="Ad slot"
                               />
                             </a>
