@@ -1,4 +1,3 @@
-import React from 'react';
 import { Link, useParams } from 'react-router-dom';
 
 export default function BlogCategory() {
@@ -7,27 +6,53 @@ export default function BlogCategory() {
 
   // Sample data for different categories
   const categoryData = {
-    politics: {
-      title: "Politics",
-      description: "Showed 15 posts out of 20 total under Politics category.",
-      posts: [
-        { id: 1, title: "The Importance of Sleep: Tips for Better Rest and Recovery", image: "/assets/images/demo-seven/posts/img-04.jpg", category: "Politics", author: "Sarah Eddrissi", authorImg: "/assets/images/avatars/03.png", date: `Mar 8, ${currentYear}`, comments: 0 },
-        { id: 2, title: "The Future of Sustainable Living: Driving Eco-Friendly Lifestyles", image: "/assets/images/demo-seven/posts/img-05.jpg", category: "Politics", author: "Anna Luis", authorImg: "/assets/images/avatars/04.png", date: `Mar 7, ${currentYear}`, comments: 1 },
-        { id: 3, title: "Eco-Tourism: Traveling Responsibly and Sustainably", image: "/assets/images/demo-seven/posts/img-10.jpg", category: "Politics", author: "David Peterson", authorImg: "/assets/images/avatars/01.png", date: `Feb 8, ${currentYear}`, comments: 20 },
-        { id: 4, title: "Tech Tools for your Time Management: Enhancing Productivity", image: "/assets/images/demo-seven/posts/img-13.jpg", category: "Politics", author: "Anna Luis", authorImg: "/assets/images/avatars/04.png", date: "Dec 8, 2023", comments: 19 },
-        // Add more politics posts as needed
-      ]
+   politics: {
+  title: "Politics",
+  description: "Showed 15 posts out of 20 total under Politics category.",
+  posts: [
+    { 
+      id: 1, 
+      title: "Election Reforms: How Policy Changes Could Shape the Future", 
+      image: "https://vajiramandravi.com/upsc-exam/wp-content/uploads/2025/02/Electoral-Reforms-in-India-1536x922.webp", 
+      category: "Politics", 
+      author: "Sarah Eddrissi", 
+      authorImg: "/assets/images/avatars/03.png", 
+      date: `Mar 8, ${currentYear}`, 
+      comments: 0 
     },
-    media: {
-      title: "Media",
-      description: "Showed 15 posts out of 20 total under Media category.",
-      posts: [
-        { id: 5, title: "AI and Marketing: Unlocking Customer Insights", image: "/assets/images/demo-seven/posts/img-08.jpg", category: "Media", author: "Rico Santos", authorImg: "/assets/images/avatars/07.png", date: `Feb 22, ${currentYear}`, comments: 2 },
-        { id: 6, title: "Solo Travel: Some Tips and Destinations for the Adventurous Explorer", image: "/assets/images/demo-seven/posts/img-11.jpg", category: "Media", author: "Peter Sawyer", authorImg: "/assets/images/avatars/02.png", date: `Jan 8, ${currentYear}`, comments: 5 },
-        { id: 7, title: "Gaming in the Age of AI: Strategies for Startups", image: "/assets/images/demo-seven/posts/img-15.jpg", category: "Media", author: "Peter Sawyer", authorImg: "/assets/images/avatars/02.png", date: "Jun 8, 2023", comments: 19 },
-        // Add more media posts as needed
-      ]
-    }
+    { 
+      id: 2, 
+      title: "Government Spending 2025: Key Budget Priorities Explained", 
+      image: "https://images.indianexpress.com/2025/02/budget-2025-upsc.jpg?w=640", 
+      category: "Politics", 
+      author: "Anna Luis", 
+      authorImg: "/assets/images/avatars/04.png", 
+      date: `Mar 7, ${currentYear}`, 
+      comments: 1 
+    },
+    { 
+      id: 3, 
+      title: "Foreign Policy Shifts: How International Relations Are Evolving", 
+      image: "https://pwonlyias.com/wp-content/uploads/2023/12/indias-foreign-policy-65785d0a6b552-1568x882.webp", 
+      category: "Politics", 
+      author: "David Peterson", 
+      authorImg: "/assets/images/avatars/01.png", 
+      date: `Feb 8, ${currentYear}`, 
+      comments: 20 
+    },
+    { 
+      id: 4, 
+      title: "State Elections 2025: Major Issues Influencing Voter Decisions", 
+      image: "https://www.newsonair.gov.in/wp-content/uploads/2025/11/Bihar-vote-english-1-1-1-1024x576.jpeg", 
+      category: "Politics", 
+      author: "Anna Luis", 
+      authorImg: "/assets/images/avatars/04.png", 
+      date: "Dec 8, 2023", 
+      comments: 19 
+    },
+  ]
+}
+
   };
 
   const currentCategory = categoryData[category] || categoryData.politics;

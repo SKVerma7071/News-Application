@@ -1,4 +1,3 @@
-import React from "react";
 
 export default function Category() {
   return (
@@ -27,6 +26,9 @@ export default function Category() {
                       </a>
                     </h2>
                   </div>
+                  
+
+
                   <div className="block-content">
                     <div
                       className="panel row child-cols-12 md:child-cols g-2 lg:g-4 col-match sep-y"
@@ -40,18 +42,18 @@ export default function Category() {
                                 <canvas className="h-100 w-100"></canvas>
                                 <img
                                   className="media-cover image uc-transition-scale-up uc-transition-opaque"
-                                  src="/assets/images/demo-seven/posts/download (1) (2).jpg"
-                                  data-src="/assets/images/demo-seven/posts/download (1) (2).jpg"
-                                  alt="The Importance of Sleep: Tips for Better Rest and Recovery"
+                                  src="https://c.ndtvimg.com/2025-04/ubn369d_rajya-sabha-waqf_625x300_03_April_25.jpeg?downsize=1080:540"
+                                  data-src="https://c.ndtvimg.com/2025-04/ubn369d_rajya-sabha-waqf_625x300_03_April_25.jpeg?downsize=1080:540"
+                                  alt="Senate Passes Major Voting Rights Legislation"
                                   data-uc-img="loading: lazy"
                                 />
                               </div>
                               <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-16x9 d-block md:d-none">
                                 <img
                                   className="media-cover image uc-transition-scale-up uc-transition-opaque"
-                                  src="/assets/images/demo-seven/posts/download (1) (2).jpg"
-                                  data-src="/assets/images/demo-seven/posts/download (1) (2).jpg"
-                                  alt="The Importance of Sleep: Tips for Better Rest and Recovery"
+                                  src="https://c.ndtvimg.com/2025-04/ubn369d_rajya-sabha-waqf_625x300_03_April_25.jpeg?downsize=1080:540"
+                                  data-src="https://c.ndtvimg.com/2025-04/ubn369d_rajya-sabha-waqf_625x300_03_April_25.jpeg?downsize=1080:540"
+                                  alt="Senate Passes Major Voting Rights Legislation"
                                   data-uc-img="loading: lazy"
                                 />
                               </div>
@@ -66,8 +68,7 @@ export default function Category() {
                                   className="text-none text-white"
                                   href="blog-details.html"
                                 >
-                                  The Importance of Sleep: Tips for Better Rest
-                                  and Recovery
+                                  Senate Passes Major Voting Rights Legislation
                                 </a>
                               </h3>
                               <div>
@@ -135,8 +136,8 @@ export default function Category() {
                                         className="text-none hover:text-primary duration-150"
                                         href="blog-details.html"
                                       >
-                                        The Future of Sustainable Living:
-                                        Driving Eco-Friendly Lifestyles
+                                        New Tax Reform Bill Proposed by 
+                                        Government
                                       </a>
                                     </h3>
                                     <div className="post-date hstack gap-narrow fs-7 text-gray-900 dark:text-white text-opacity-60 d-none md:d-flex">
@@ -149,9 +150,9 @@ export default function Category() {
                                     <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-1x1">
                                       <img
                                         className="media-cover image uc-transition-scale-up uc-transition-opaque"
-                                        src="\assets\images\demo-two\download (1).jpg"
-                                        data-src="\assets\images\demo-two\download (1).jpg"
-                                        alt="The Future of Sustainable Living: Driving Eco-Friendly Lifestyles"
+                                        src="https://etimg.etb2bimg.com/photo/118215852.cms"
+                                        data-src="https://etimg.etb2bimg.com/photo/118215852.cms"
+                                        alt="New Tax Reform Bill Proposed by Government"
                                         data-uc-img="loading: lazy"
                                       />
                                     </div>
@@ -177,8 +178,8 @@ export default function Category() {
                                         className="text-none hover:text-primary duration-150"
                                         href="blog-details.html"
                                       >
-                                        Eco-Tourism: Traveling Responsibly and
-                                        Sustainably
+                                        Digital Governance: New Laws to 
+                                        Regulate Civic Tech
                                       </a>
                                     </h3>
                                     <div className="post-date hstack gap-narrow fs-7 text-gray-900 dark:text-white text-opacity-60 d-none md:d-flex">
@@ -191,9 +192,9 @@ export default function Category() {
                                     <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-1x1">
                                       <img
                                         className="media-cover image uc-transition-scale-up uc-transition-opaque"
-                                        src="\assets\images\demo-two\download (2).jpg"
-                                        data-src="\assets\images\demo-two\download (2).jpg"
-                                        alt="Eco-Tourism: Traveling Responsibly and Sustainably"
+                                        src="https://www.undp.org/sites/g/files/zskgke326/files/styles/full_hero_1392x940/public/2025-06/civic_tech_hero_photo.png?h=d1cb525d&itok=tT9s1wUj"
+                                        data-src="https://www.undp.org/sites/g/files/zskgke326/files/styles/full_hero_1392x940/public/2025-06/civic_tech_hero_photo.png?h=d1cb525d&itok=tT9s1wUj"
+                                        alt="  Digital Governance: New Laws to Regulate Civic Tech"
                                         data-uc-img="loading: lazy"
                                       />
                                     </div>
@@ -219,8 +220,8 @@ export default function Category() {
                                         className="text-none hover:text-primary duration-150"
                                         href="blog-details.html"
                                       >
-                                        Tech Tools for your Time Management:
-                                        Enhancing Productivity
+                                        International Summit: Leaders Discuss:
+                                         Climate Diplomacy
                                       </a>
                                     </h3>
                                     <div className="post-date hstack gap-narrow fs-7 text-gray-900 dark:text-white text-opacity-60 d-none md:d-flex">
@@ -233,9 +234,9 @@ export default function Category() {
                                     <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-1x1">
                                       <img
                                         className="media-cover image uc-transition-scale-up uc-transition-opaque"
-                                        src="\assets\images\demo-two\posts\download (1).jpg"
-                                        data-src="\assets\images\demo-two\posts\download (1).jpg"
-                                        alt="Tech Tools for your Time Management: Enhancing Productivity"
+                                        src="https://static01.nyt.com/images/2025/11/07/multimedia/07CLI-COP30-LEADERS-DAYTWO-01-cphk/07CLI-COP30-LEADERS-DAYTWO-01-cphk-jumbo.jpg?quality=75&auto=webp"
+                                        data-src="https://static01.nyt.com/images/2025/11/07/multimedia/07CLI-COP30-LEADERS-DAYTWO-01-cphk/07CLI-COP30-LEADERS-DAYTWO-01-cphk-jumbo.jpg?quality=75&auto=webp"
+                                        alt="International Summit: Leaders Discuss Climate Diplomacy"
                                         data-uc-img="loading: lazy"
                                       />
                                     </div>
@@ -261,8 +262,9 @@ export default function Category() {
                                         className="text-none hover:text-primary duration-150"
                                         href="blog-details.html"
                                       >
-                                        Potential of Immersive Technologies help
-                                        your Business Grow
+                                      Regional Elections: Key States Tilt
+                                       Toward Change
+
                                       </a>
                                     </h3>
                                     <div className="post-date hstack gap-narrow fs-7 text-gray-900 dark:text-white text-opacity-60 d-none md:d-flex">
@@ -275,9 +277,9 @@ export default function Category() {
                                     <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-1x1">
                                       <img
                                         className="media-cover image uc-transition-scale-up uc-transition-opaque"
-                                        src="\assets\images\demo-two\download (3).jpg"
-                                        data-src="\assets\images\demo-two\download (3).jpg"
-                                        alt="Potential of Immersive Technologies help your Business Grow"
+                                        src="https://foreignpolicy.com/wp-content/uploads/2023/12/2024-global-election-modi-putin-maduro-sunak-bukele-hasina-ramaphosa-2.jpg?resize=1000,500&quality=90"
+                                        data-src="https://foreignpolicy.com/wp-content/uploads/2023/12/2024-global-election-modi-putin-maduro-sunak-bukele-hasina-ramaphosa-2.jpg?resize=1000,500&quality=90"
+                                        alt="Regional Elections: Key States Tilt Toward Change"
                                         data-uc-img="loading: lazy"
                                       />
                                     </div>
@@ -294,6 +296,10 @@ export default function Category() {
                       </div>
                     </div>
                   </div>
+
+
+
+
                 </div>
               </div>
               <div className="lg:col-4">

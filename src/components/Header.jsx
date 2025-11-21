@@ -1,4 +1,3 @@
-import React from "react";
 import { useModal } from "./context/ModalContext";
 
 export default function Header() {
@@ -15,7 +14,7 @@ export default function Header() {
     { href: "institution-directory", label: "Institution Directory" },
     { href: "knowledge-hub", label: "Knowledge Hub" },
     { href: "contactus", label: "Contact Us" },
-    { href: "admin", label: "Admin" },
+    // { href: "admin", label: "Admin" },
   ];
 
   // Ticker items data
