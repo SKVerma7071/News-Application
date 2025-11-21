@@ -1,4 +1,3 @@
-import React from "react";
 
 export default function Category4() {
   return (
@@ -38,8 +37,8 @@ export default function Category4() {
                               <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-4x3">
                                 <img
                                   className="media-cover image uc-transition-scale-up uc-transition-opaque"
-                                  src="/assets/images/common/img-fallback.png"
-                                  data-src="/assets/images/demo-seven/posts/img-01.jpg"
+                                  src="https://www.signitysolutions.com/hs-fs/hubfs/AI%20powered%20personal%20assistant%20bots.webp?width=670&height=445&name=AI%20powered%20personal%20assistant%20bots.webp"
+                                  data-src="https://www.signitysolutions.com/hs-fs/hubfs/AI%20powered%20personal%20assistant%20bots.webp?width=670&height=445&name=AI%20powered%20personal%20assistant%20bots.webp"
                                   alt="The Rise of AI-Powered Personal Assistants: How They Manage"
                                   data-uc-img="loading: lazy"
                                 />
@@ -134,8 +133,8 @@ export default function Category4() {
                                   <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-1x1">
                                     <img
                                       className="media-cover image uc-transition-scale-up uc-transition-opaque"
-                                      src="/assets/images/common/img-fallback.png"
-                                      data-src="/assets/images/demo-seven/posts/img-02.jpg"
+                                      src="https://proventainternational.com/wp-content/uploads/2023/07/PunDad321_Generative_AI_has_revolutionized_the_retail_industry__7d8cdf1f-9ab6-462c-b313-13fdcdc7df12.png"
+                                      data-src="https://proventainternational.com/wp-content/uploads/2023/07/PunDad321_Generative_AI_has_revolutionized_the_retail_industry__7d8cdf1f-9ab6-462c-b313-13fdcdc7df12.png"
                                       alt="Tech Innovations Reshaping the Retail Landscape: AI Payments"
                                       data-uc-img="loading: lazy"
                                     />
@@ -176,8 +175,8 @@ export default function Category4() {
                                   <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-1x1">
                                     <img
                                       className="media-cover image uc-transition-scale-up uc-transition-opaque"
-                                      src="/assets/images/common/img-fallback.png"
-                                      data-src="/assets/images/demo-seven/posts/img-03.jpg"
+                                      src="https://www.hrcloud.com/hubfs/12%20Tips%20to%20Improve%20Your%20Work-Life%20Balance.png"
+                                      data-src="https://www.hrcloud.com/hubfs/12%20Tips%20to%20Improve%20Your%20Work-Life%20Balance.png"
                                       alt="Balancing Work and Wellness: Tech Solutions for Healthy"
                                       data-uc-img="loading: lazy"
                                     />
@@ -218,8 +217,8 @@ export default function Category4() {
                                   <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-1x1">
                                     <img
                                       className="media-cover image uc-transition-scale-up uc-transition-opaque"
-                                      src="/assets/images/common/img-fallback.png"
-                                      data-src="/images/demo-seven/posts/img-04.jpg"
+                                      src="https://upandrunningpt.com/wp-content/uploads/2024/04/rest-sleep-well-1024x680-1.jpg"
+                                      data-src="https://upandrunningpt.com/wp-content/uploads/2024/04/rest-sleep-well-1024x680-1.jpg"
                                       alt="The Importance of Sleep: Tips for Better Rest and Recovery"
                                       data-uc-img="loading: lazy"
                                     />
@@ -264,8 +263,8 @@ export default function Category4() {
                               <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-4x3">
                                 <img
                                   className="media-cover image uc-transition-scale-up uc-transition-opaque"
-                                  src="/assets/images/common/img-fallback.png"
-                                  data-src="/assets/images/demo-seven/posts/img-05.jpg"
+                                  src="https://vikalpsangam.org/wp-content/uploads/migrate/Environment%20Ecology%202/merinmariyachangecanchangeclimatechange.jpg"
+                                  data-src="https://vikalpsangam.org/wp-content/uploads/migrate/Environment%20Ecology%202/merinmariyachangecanchangeclimatechange.jpg"
                                   alt="The Future of Sustainable Living: Driving Eco-Friendly Lifestyles"
                                   data-uc-img="loading: lazy"
                                 />
@@ -360,8 +359,8 @@ export default function Category4() {
                                   <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-1x1">
                                     <img
                                       className="media-cover image uc-transition-scale-up uc-transition-opaque"
-                                      src="/assets/images/common/img-fallback.png"
-                                      data-src="/assets/images/demo-seven/posts/img-06.jpg"
+                                      src="https://www.avaali.com/illuminar-digitalenterprise/wp-content/uploads/2022/12/illuminar-cover-story-2022.jpg"
+                                      data-src="https://www.avaali.com/illuminar-digitalenterprise/wp-content/uploads/2022/12/illuminar-cover-story-2022.jpg"
                                       alt="Business Agility the Digital Age: Leveraging AI and Automation"
                                       data-uc-img="loading: lazy"
                                     />
@@ -402,8 +401,8 @@ export default function Category4() {
                                   <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-1x1">
                                     <img
                                       className="media-cover image uc-transition-scale-up uc-transition-opaque"
-                                      src="/assets/images/common/img-fallback.png"
-                                      data-src="/assets/images/demo-seven/posts/img-07.jpg"
+                                      src="https://napervillefreshmarket.com/wp-content/uploads/2024/01/63822-1024x684.webp"
+                                      data-src="https://napervillefreshmarket.com/wp-content/uploads/2024/01/63822-1024x684.webp"
                                       alt="The Art of Baking: From classNameic Bread to Artisan Pastries"
                                       data-uc-img="loading: lazy"
                                     />
@@ -444,8 +443,8 @@ export default function Category4() {
                                   <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-1x1">
                                     <img
                                       className="media-cover image uc-transition-scale-up uc-transition-opaque"
-                                      src="/assets/images/common/img-fallback.png"
-                                      data-src="/assets/images/demo-seven/posts/img-08.jpg"
+                                      src="https://miro.medium.com/v2/format:webp/1*Fw7QVbHpu_5vngj9N0lfuw.png"
+                                      data-src="https://miro.medium.com/v2/format:webp/1*Fw7QVbHpu_5vngj9N0lfuw.png"
                                       alt="AI and Marketing: Unlocking Customer Insights"
                                       data-uc-img="loading: lazy"
                                     />
@@ -490,8 +489,8 @@ export default function Category4() {
                               <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-4x3">
                                 <img
                                   className="media-cover image uc-transition-scale-up uc-transition-opaque"
-                                  src="/assets/images/common/img-fallback.png"
-                                  data-src="/assets/images/demo-seven/posts/img-09.jpg"
+                                  src="https://images.squarespace-cdn.com/content/v1/5fa5ec79661ee904d2973ca0/1710265687748-B31ACQ87KL5KQDZ472LA/travel+guide+hiddens+you+must+see+before+you+die.jpg?format=1000w"
+                                  data-src="https://images.squarespace-cdn.com/content/v1/5fa5ec79661ee904d2973ca0/1710265687748-B31ACQ87KL5KQDZ472LA/travel+guide+hiddens+you+must+see+before+you+die.jpg?format=1000w"
                                   alt="Hidden Gems: Underrated Travel Destinations Around the World"
                                   data-uc-img="loading: lazy"
                                 />
@@ -586,8 +585,8 @@ export default function Category4() {
                                   <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-1x1">
                                     <img
                                       className="media-cover image uc-transition-scale-up uc-transition-opaque"
-                                      src="/assets/images/common/img-fallback.png"
-                                      data-src="/assets/images/demo-seven/posts/img-10.jpg"
+                                      src="https://spicetreemunnar.com/wp-content/uploads/2024/04/9387727_4165497-1024x1024.jpg"
+                                      data-src="https://spicetreemunnar.com/wp-content/uploads/2024/04/9387727_4165497-1024x1024.jpg"
                                       alt="Eco-Tourism: Traveling Responsibly and Sustainably"
                                       data-uc-img="loading: lazy"
                                     />
@@ -628,8 +627,8 @@ export default function Category4() {
                                   <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-1x1">
                                     <img
                                       className="media-cover image uc-transition-scale-up uc-transition-opaque"
-                                      src="/assets/images/common/img-fallback.png"
-                                      data-src="/assets/images/demo-seven/posts/img-11.jpg"
+                                      src="https://cimg.collectlo.com/b119d555-9030-4772-ac84-71aaecf91eaa"
+                                      data-src="https://cimg.collectlo.com/b119d555-9030-4772-ac84-71aaecf91eaa"
                                       alt="Solo Travel: Some Tips and Destinations for the Adventurous Explorer"
                                       data-uc-img="loading: lazy"
                                     />
@@ -670,8 +669,8 @@ export default function Category4() {
                                   <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-1x1">
                                     <img
                                       className="media-cover image uc-transition-scale-up uc-transition-opaque"
-                                      src="/assets/images/common/img-fallback.png"
-                                      data-src="/assets/images/demo-seven/posts/img-12.jpg"
+                                      src="https://www.solulab.com/wp-content/uploads/2023/12/AI-in-Finance-2-1024x569.jpg"
+                                      data-src="https://www.solulab.com/wp-content/uploads/2023/12/AI-in-Finance-2-1024x569.jpg"
                                       alt="AI-Powered Financial Planning: How Algorithms Revolutionizing"
                                       data-uc-img="loading: lazy"
                                     />

@@ -1,4 +1,3 @@
-import React from "react";
 
 export default function HotNewsSlider() {
   return (
@@ -29,8 +28,8 @@ export default function HotNewsSlider() {
                               <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-3x2">
                                 <img
                                   className="media-cover image uc-transition-scale-up uc-transition-opaque"
-                                  src="\assets\images\common\image copy.png"
-                                  data-src="\assets\images\common\image copy.png"
+                                  src="https://images.squarespace-cdn.com/content/v1/5fa5ec79661ee904d2973ca0/1710265687748-B31ACQ87KL5KQDZ472LA/travel+guide+hiddens+you+must+see+before+you+die.jpg?format=1000w"
+                                  data-src="https://images.squarespace-cdn.com/content/v1/5fa5ec79661ee904d2973ca0/1710265687748-B31ACQ87KL5KQDZ472LA/travel+guide+hiddens+you+must+see+before+you+die.jpg?format=1000w"
                                   alt="Hidden Gems: Underrated Travel Destinations Around the World"
                                   data-uc-img="loading: lazy"
                                 />
@@ -81,8 +80,8 @@ export default function HotNewsSlider() {
                               <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-3x2">
                                 <img
                                   className="media-cover image uc-transition-scale-up uc-transition-opaque"
-                                  src="\assets\images\demo-seven\posts\image.png"
-                                  data-src="\assets\images\demo-seven\posts\image.png"
+                                  src="https://spicetreemunnar.com/wp-content/uploads/2024/04/9387727_4165497-1024x1024.jpg"
+                                  data-src="https://spicetreemunnar.com/wp-content/uploads/2024/04/9387727_4165497-1024x1024.jpg"
                                   alt="Eco-Tourism: Traveling Responsibly and Sustainably"
                                   data-uc-img="loading: lazy"
                                 />
@@ -133,8 +132,8 @@ export default function HotNewsSlider() {
                               <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-3x2">
                                 <img
                                   className="media-cover image uc-transition-scale-up uc-transition-opaque"
-                                  src="\assets\images\common\download (1).jpg"
-                                  data-src="\images\common\download (1).jpg"
+                                  src="https://cimg.collectlo.com/b119d555-9030-4772-ac84-71aaecf91eaa"
+                                  data-src="https://cimg.collectlo.com/b119d555-9030-4772-ac84-71aaecf91eaa"
                                   alt="Solo Travel: Some Tips and Destinations for the Adventurous Explorer"
                                   data-uc-img="loading: lazy"
                                 />

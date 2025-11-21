@@ -1,4 +1,3 @@
-import React from "react";
 
 export default function Category3() {
   return (
@@ -40,8 +39,8 @@ export default function Category3() {
                                   <canvas className="h-100 w-100"></canvas>
                                   <img
                                     className="media-cover image uc-transition-scale-up uc-transition-opaque"
-                                    src="/assets/images/common/img-fallback.png"
-                                    data-src="/assets/images/demo-seven/posts/img-01.jpg"
+                                    src="https://www.signitysolutions.com/hs-fs/hubfs/AI%20powered%20personal%20assistant%20bots.webp?width=670&height=445&name=AI%20powered%20personal%20assistant%20bots.webp"
+                                    data-src="https://www.signitysolutions.com/hs-fs/hubfs/AI%20powered%20personal%20assistant%20bots.webp?width=670&height=445&name=AI%20powered%20personal%20assistant%20bots.webp"
                                     alt="The Rise of AI-Powered Personal Assistants: How They Manage"
                                     data-uc-img="loading: lazy"
                                   />
@@ -49,8 +48,8 @@ export default function Category3() {
                                 <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-16x9 d-block md:d-none">
                                   <img
                                     className="media-cover image uc-transition-scale-up uc-transition-opaque"
-                                    src="/assets/images/common/img-fallback.png"
-                                    data-src="/assets/images/demo-seven/posts/img-01.jpg"
+                                    src="https://www.signitysolutions.com/hs-fs/hubfs/AI%20powered%20personal%20assistant%20bots.webp?width=670&height=445&name=AI%20powered%20personal%20assistant%20bots.webp"
+                                    data-src="https://www.signitysolutions.com/hs-fs/hubfs/AI%20powered%20personal%20assistant%20bots.webp?width=670&height=445&name=AI%20powered%20personal%20assistant%20bots.webp"
                                     alt="The Rise of AI-Powered Personal Assistants: How They Manage"
                                     data-uc-img="loading: lazy"
                                   />
@@ -149,8 +148,8 @@ export default function Category3() {
                                       <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-1x1">
                                         <img
                                           className="media-cover image uc-transition-scale-up uc-transition-opaque"
-                                          src="/assets/images/common/img-fallback.png"
-                                          data-src="/assets/images/demo-seven/posts/img-06.jpg"
+                                          src="https://www.avaali.com/illuminar-digitalenterprise/wp-content/uploads/2022/12/illuminar-cover-story-2022.jpg"
+                                          data-src="https://www.avaali.com/illuminar-digitalenterprise/wp-content/uploads/2022/12/illuminar-cover-story-2022.jpg"
                                           alt="Business Agility the Digital Age: Leveraging AI and Automation"
                                           data-uc-img="loading: lazy"
                                         />
@@ -191,8 +190,8 @@ export default function Category3() {
                                       <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-1x1">
                                         <img
                                           className="media-cover image uc-transition-scale-up uc-transition-opaque"
-                                          src="/assets/images/common/img-fallback.png"
-                                          data-src="/assets/images/demo-seven/posts/img-14.jpg"
+                                          src="https://restaurantindia.s3.ap-south-1.amazonaws.com/s3fs-public/2025-10/Top%2010%20Vegan%20Street%20Foods%20in%20India%20You%20Must%20Try%20Once%20in%20Your%20Life.jpg"
+                                          data-src="https://restaurantindia.s3.ap-south-1.amazonaws.com/s3fs-public/2025-10/Top%2010%20Vegan%20Street%20Foods%20in%20India%20You%20Must%20Try%20Once%20in%20Your%20Life.jpg"
                                           alt="A Guide to The Rise of Gourmet Street Food: Trends and Top Picks"
                                           data-uc-img="loading: lazy"
                                         />
@@ -233,8 +232,8 @@ export default function Category3() {
                                       <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-1x1">
                                         <img
                                           className="media-cover image uc-transition-scale-up uc-transition-opaque"
-                                          src="/images/common/img-fallback.png"
-                                          data-src="/assets/images/demo-seven/posts/img-16.jpg"
+                                          src="https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2022/02/Topfunds_FeatureSocial_1360x1020.jpg"
+                                          data-src="https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2022/02/Topfunds_FeatureSocial_1360x1020.jpg"
                                           alt="Top Independent Contractors to Invest in Best of Startups"
                                           data-uc-img="loading: lazy"
                                         />
@@ -275,8 +274,8 @@ export default function Category3() {
                                       <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-1x1">
                                         <img
                                           className="media-cover image uc-transition-scale-up uc-transition-opaque"
-                                          src="/assets/images/common/img-fallback.png"
-                                          data-src="/assets/images/demo-seven/posts/img-19.jpg"
+                                          src="https://portfolio.investmentguruindia.com/uploads/news/lifestyle_092525.jpg"
+                                          data-src="https://portfolio.investmentguruindia.com/uploads/news/lifestyle_092525.jpg"
                                           alt="The Future of Sustainable Living: Driving Eco-Friendly Lifestyles"
                                           data-uc-img="loading: lazy"
                                         />
@@ -344,8 +343,8 @@ export default function Category3() {
                                   <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-1x1">
                                     <img
                                       className="media-cover image uc-transition-scale-up uc-transition-opaque"
-                                      src="/assets/images/common/img-fallback.png"
-                                      data-src="/assets/images/demo-seven/posts/img-02.jpg"
+                                      src="https://proventainternational.com/wp-content/uploads/2023/07/PunDad321_Generative_AI_has_revolutionized_the_retail_industry__7d8cdf1f-9ab6-462c-b313-13fdcdc7df12.png"
+                                      data-src="https://proventainternational.com/wp-content/uploads/2023/07/PunDad321_Generative_AI_has_revolutionized_the_retail_industry__7d8cdf1f-9ab6-462c-b313-13fdcdc7df12.png"
                                       alt="Tech Innovations Reshaping the Retail Landscape: AI Payments"
                                       data-uc-img="loading: lazy"
                                     />
@@ -386,8 +385,8 @@ export default function Category3() {
                                   <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-1x1">
                                     <img
                                       className="media-cover image uc-transition-scale-up uc-transition-opaque"
-                                      src="/assets/images/common/img-fallback.png"
-                                      data-src="/assets/images/demo-seven/posts/img-07.jpg"
+                                      src="https://napervillefreshmarket.com/wp-content/uploads/2024/01/63822-1024x684.webp"
+                                      data-src="https://napervillefreshmarket.com/wp-content/uploads/2024/01/63822-1024x684.webp"
                                       alt="The Art of Baking: From classNameic Bread to Artisan Pastries"
                                       data-uc-img="loading: lazy"
                                     />
@@ -428,8 +427,8 @@ export default function Category3() {
                                   <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-1x1">
                                     <img
                                       className="media-cover image uc-transition-scale-up uc-transition-opaque"
-                                      src="/assets/images/common/img-fallback.png"
-                                      data-src="/assets/images/demo-seven/posts/img-09.jpg"
+                                      src="https://images.squarespace-cdn.com/content/v1/5fa5ec79661ee904d2973ca0/1710265687748-B31ACQ87KL5KQDZ472LA/travel+guide+hiddens+you+must+see+before+you+die.jpg?format=1000w"
+                                      data-src="https://images.squarespace-cdn.com/content/v1/5fa5ec79661ee904d2973ca0/1710265687748-B31ACQ87KL5KQDZ472LA/travel+guide+hiddens+you+must+see+before+you+die.jpg?format=1000w"
                                       alt="Hidden Gems: Underrated Travel Destinations Around the World"
                                       data-uc-img="loading: lazy"
                                     />
@@ -470,8 +469,8 @@ export default function Category3() {
                                   <div className="featured-image bg-gray-25 dark:bg-gray-800 ratio ratio-1x1">
                                     <img
                                       className="media-cover image uc-transition-scale-up uc-transition-opaque"
-                                      src="/assets/images/common/img-fallback.png"
-                                      data-src="/assets/images/demo-seven/posts/img-12.jpg"
+                                      src="https://www.solulab.com/wp-content/uploads/2023/12/AI-in-Finance-2-1024x569.jpg"
+                                      data-src="https://www.solulab.com/wp-content/uploads/2023/12/AI-in-Finance-2-1024x569.jpg"
                                       alt="AI-Powered Financial Planning: How Algorithms Revolutionizing"
                                       data-uc-img="loading: lazy"
                                     />

@@ -1,4 +1,3 @@
-import React from "react";
 
 export default function Strip() {
   return (
@@ -41,8 +40,8 @@ export default function Strip() {
                                     playsInline
                                   >
                                     <source
-                                      src="/assets/images/common/img-fallback.png"
-                                      data-src="/assets/images/demo-two/videos/vid-01.webm"
+                                      src="https://www.hrcloud.com/hs-fs/hubfs/Work-Life%20Balance%20and%20Why%20It%E2%80%99s%20Important.png?width=1196&height=1030&name=Work-Life%20Balance%20and%20Why%20It%E2%80%99s%20Important.png"
+                                      data-src="https://www.hrcloud.com/hs-fs/hubfs/Work-Life%20Balance%20and%20Why%20It%E2%80%99s%20Important.png?width=1196&height=1030&name=Work-Life%20Balance%20and%20Why%20It%E2%80%99s%20Important.png"
                                       type="video/webm"
                                     />
                                     Your browser does not support the video tag.
@@ -125,8 +124,8 @@ export default function Strip() {
                                     playsinline
                                   >
                                     <source
-                                      src="/assets/images/common/img-fallback.png"
-                                      data-src="/assets/images/demo-two/videos/vid-03.webm"
+                                      src="https://media.licdn.com/dms/image/v2/D4E12AQFl3S6Oc-C37g/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1708933642071?e=1765411200&v=beta&t=EueN3rJ-fEfkjip-dr0_5LHo5hAlJAWKiKlAJOD9JX8"
+                                      data-src="https://media.licdn.com/dms/image/v2/D4E12AQFl3S6Oc-C37g/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1708933642071?e=1765411200&v=beta&t=EueN3rJ-fEfkjip-dr0_5LHo5hAlJAWKiKlAJOD9JX8"
                                       type="video/webm"
                                     />
                                     Your browser does not support the video tag.
@@ -209,8 +208,8 @@ export default function Strip() {
                                     playsinline
                                   >
                                     <source
-                                      src="/assets/images/common/img-fallback.png"
-                                      data-src="/assets/images/demo-two/videos/vid-04.webm"
+                                      src="https://napervillefreshmarket.com/wp-content/uploads/2024/01/63822-1024x684.webp"
+                                      data-src="https://napervillefreshmarket.com/wp-content/uploads/2024/01/63822-1024x684.webp"
                                       type="video/webm"
                                     />
                                     Your browser does not support the video tag.
@@ -293,8 +292,8 @@ export default function Strip() {
                                     playsinline
                                   >
                                     <source
-                                      src="/assets/images/common/img-fallback.png"
-                                      data-src="/assets/images/demo-two/videos/vid-05.webm"
+                                      src="https://www.solulab.com/wp-content/uploads/2023/12/AI-in-Finance-2-1024x569.jpg"
+                                      data-src="https://www.solulab.com/wp-content/uploads/2023/12/AI-in-Finance-2-1024x569.jpg"
                                       type="video/webm"
                                     />
                                     Your browser does not support the video tag.
@@ -407,8 +406,8 @@ export default function Strip() {
                                         playsinline
                                       >
                                         <source
-                                          src="/assets/images/common/img-fallback.png"
-                                          data-src="/assets/images/demo-two/videos/vid-01.webm"
+                                          src="https://www.hrcloud.com/hs-fs/hubfs/Work-Life%20Balance%20and%20Why%20It%E2%80%99s%20Important.png?width=1196&height=1030&name=Work-Life%20Balance%20and%20Why%20It%E2%80%99s%20Important.png"
+                                          data-src="https://www.hrcloud.com/hs-fs/hubfs/Work-Life%20Balance%20and%20Why%20It%E2%80%99s%20Important.png?width=1196&height=1030&name=Work-Life%20Balance%20and%20Why%20It%E2%80%99s%20Important.png"
                                           type="video/webm"
                                         />
                                         Your browser does not support the video
@@ -447,8 +446,8 @@ export default function Strip() {
                                         playsinline
                                       >
                                         <source
-                                          src="/assets/images/common/img-fallback.png"
-                                          data-src="/assets/images/demo-two/videos/vid-03.webm"
+                                          src="https://www.avaali.com/illuminar-digitalenterprise/wp-content/uploads/2022/12/illuminar-cover-story-2022.jpg"
+                                          data-src="https://www.avaali.com/illuminar-digitalenterprise/wp-content/uploads/2022/12/illuminar-cover-story-2022.jpg"
                                           type="video/webm"
                                         />
                                         Your browser does not support the video
@@ -487,8 +486,8 @@ export default function Strip() {
                                         playsinline
                                       >
                                         <source
-                                          src="/assets/images/common/img-fallback.png"
-                                          data-src="/assets/images/demo-two/videos/vid-04.webm"
+                                          src="https://napervillefreshmarket.com/wp-content/uploads/2024/01/63822-1024x684.webp"
+                                          data-src="https://napervillefreshmarket.com/wp-content/uploads/2024/01/63822-1024x684.webp"
                                           type="video/webm"
                                         />
                                         Your browser does not support the video
@@ -527,8 +526,8 @@ export default function Strip() {
                                         playsinline
                                       >
                                         <source
-                                          src="/assets/images/common/img-fallback.png"
-                                          data-src="/assets/images/demo-two/videos/vid-05.webm"
+                                          src="https://www.solulab.com/wp-content/uploads/2023/12/AI-in-Finance-2-1024x569.jpg"
+                                          data-src="https://www.solulab.com/wp-content/uploads/2023/12/AI-in-Finance-2-1024x569.jpg"
                                           type="video/webm"
                                         />
                                         Your browser does not support the video
@@ -565,6 +564,8 @@ export default function Strip() {
                   </div>
                 </div>
               </div>
+
+              
             </div>
           </div>
         </div>
